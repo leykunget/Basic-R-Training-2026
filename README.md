@@ -61,14 +61,14 @@ Please be sure to complete these surveys before and after the workshop.
 | Introduction to R and RStudio & Data Import | [View]() | [Download]() |
 | Data management with dplyr in R | [View]() | [Download]() |
 | Basic Data Visualization using ggplot2 | [View]() | [Download]() |
-| Data Analysis | [View]() | [Download]() |
+| Basic Data Analysis | [View]() | [Download]() |
 | Reproducible Reports with Quarto/R Markdown | [View]() | [Download]() |
 
 ------------------------------------------------------------------------
 
 ## Installation 
 
-If you don’t already have R and RStudio, you must install R *before* you install RStudio.
+Install **R first**, then **RStudio**.
 
 ### 1. Download and install R
 
