@@ -2,7 +2,7 @@
 
 **Authors:** [Leykun Getaneh](https://github.com/leykunget) and [Yebelay Berehan](https://github.com/Yebelay)
 
-Welcome to the **Basic-R-Training-2026** repository! This repository contains all the slides and materials for the R programming training. The training covers key topics.
+Welcome to the **Basic-R-Training-2026** repository! This repository contains all the slides and materials for the R programming training. 
 
 ------------------------------------------------------------------------
 
