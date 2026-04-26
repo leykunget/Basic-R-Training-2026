@@ -49,7 +49,7 @@ Please be sure to complete these surveys before and after the workshop.
 |-------|-------------------------------------------------|----------------|
 | Day 1 | Introduction to R and Rstudio and data import        | Leykun & Yebelay |
 | Day 2 | Data management and manipulation                | Yebelay & Leykun |
-| Day 3 | Data visualization & EDA                        | Leykun & Yebelay |
+| Day 3 | Data management; Data visualization & EDA                        | Leykun & Yebelay |
 | Day 4 | Basic data analysis & Creating reproducible reports | Yebelay & Leykun |
 
 ------------------------------------------------------------------------
@@ -59,7 +59,7 @@ Please be sure to complete these surveys before and after the workshop.
 | Topic                 | HTML Slide              | PDF Slide               |
 |-----------------------|-------------------------|-------------------------|
 | Introduction to R and RStudio & Data Import | [View]() | [Download]() |
-| Data Manipulation with dplyr in R | [View]() | [Download]() |
+| Data management with dplyr in R | [View]() | [Download]() |
 | Basic Data Visualization using ggplot2 | [View]() | [Download]() |
 | Data Analysis | [View]() | [Download]() |
 | Reproducible Reports with Quarto/R Markdown | [View]() | [Download]() |
