@@ -1,105 +1,121 @@
-# Basic R training organized by NDMC, EPHI
 
-**Authors:** [Leykun Getaneh](https://github.com/leykunget) and [Yebelay Berehan](https://github.com/Yebelay)
+# Basic R Training – NDMC, EPHI (2026)
 
-Welcome to the **Basic-R-Training-2026** repository! This repository contains all the slides and materials for the R programming training. 
+![R](https://img.shields.io/badge/R-Programming-blue?logo=r)
+![RStudio](https://img.shields.io/badge/IDE-RStudio-75AADB?logo=rstudio)
+![Quarto](https://img.shields.io/badge/Docs-Quarto-39729E?logo=quarto)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-------------------------------------------------------------------------
+---
 
-## Table of Contents
+**Authors**: [Leykun Getaneh](https://github.com/leykunget) and [Yebelay Berehan](https://github.com/Yebelay)
 
--   [About This Training](#about-this-training)
--   [Surveys](#surveys)
--   [Training Schedules](#training-schedules)
--   [Training Materials](#training-materials)
--   [Installation](#installation)
--   [Download the Datasets](#download-the-datasets)
--   [How to Use This Repository](#how-to-use-this-repository)
+---
 
-------------------------------------------------------------------------
+## 📖 Overview
 
-## About This Training 
+This repository contains **training materials, datasets, and slides** for the
+**Basic R Training (2026)** organized by:
 
-This training is organized by the **National Data Management and Analytics Center (NDMC), Ethiopian Public Health Institute (EPHI)** for public health professionals of EPHI, focusing on:
+> **National Data Management and Analytics Center (NDMC)**,
+> **Ethiopian Public Health Institute (EPHI)**
 
--   Understanding R and RStudio
--   Data wrangling using the Tidyverse
--   Data visualization using ggplot2
--   Basic Data analysis
--   Creating reproducible reports with Quarto
+The training is designed to strengthen the data analytics capacity of EPHI public health professionals for public health decision-making in Ethiopia.
 
-Participants can access the slides and materials for each session below. Simply click on the links to view or download them. This training is designed to help participants gain practical skills in R programming and data analysis, enabling them to effectively manage and analyze public health data.
+---
 
-------------------------------------------------------------------------
+## 🎯 Learning Objectives
 
-## Surveys 
+By the end of the training, participants will be able to:
 
-Please be sure to complete these surveys before and after the workshop.
+* Install and navigate **R** and **RStudio**
+* Import and clean datasets
+* Perform data manipulation using **tidyverse**
+* Create visualizations with **ggplot2**
+* Conduct basic data analysis
+* Produce reproducible reports using **Quarto**
 
--   [Registration & Pre-training Survey]()
--   [Post-training Survey]()
+---
 
-------------------------------------------------------------------------
+## 🗓️ Training Schedule
 
-## Training Schedules 
+**April 28 – May 2, 2026**
 
-### April 28 – May 2, 2026
+| Day   | Topic                                                | Facilitators     |
+| ----- | ---------------------------------------------------- | ---------------- |
+| Day 1 | Introduction to R, RStudio, and data import          | Leykun & Yebelay |
+| Day 2 | Data management (tidyverse)                        | Yebelay & Leykun |
+| Day 3 | Data management; Data visualization & EDA          | Leykun & Yebelay |
+| Day 4 | Basic analysis & reproducible reporting (Quarto)     | Yebelay & Leykun |
 
-| Days  | Topic                                           | Facilitator    |
-|-------|-------------------------------------------------|----------------|
-| Day 1 | Introduction to R and Rstudio and data import        | Leykun & Yebelay |
-| Day 2 | Data management and manipulation                | Yebelay & Leykun |
-| Day 3 | Data management; Data visualization & EDA                        | Leykun & Yebelay |
-| Day 4 | Basic data analysis & Creating reproducible reports | Yebelay & Leykun |
+---
 
-------------------------------------------------------------------------
+## 📂 Training Materials
 
-## Training Materials 
+| Module                          | HTML        | PDF             |
+| ------------------------------- | ----------- | --------------- |
+| Introduction to R & Data Import | 🔗 [View]() | ⬇️ [Download]() |
+| Data Management (dplyr)       | 🔗 [View]() | ⬇️ [Download]() |
+| Data Visualization (ggplot2)    | 🔗 [View]() | ⬇️ [Download]() |
+| Basic Data Analysis             | 🔗 [View]() | ⬇️ [Download]() |
+| Reproducible Reporting (Quarto) | 🔗 [View]() | ⬇️ [Download]() |
 
-| Topic                 | HTML Slide              | PDF Slide               |
-|-----------------------|-------------------------|-------------------------|
-| Introduction to R and RStudio & Data Import | [View]() | [Download]() |
-| Data management with dplyr in R | [View]() | [Download]() |
-| Basic Data Visualization using ggplot2 | [View]() | [Download]() |
-| Basic Data Analysis | [View]() | [Download]() |
-| Reproducible Reports with Quarto/R Markdown | [View]() | [Download]() |
+---
 
-------------------------------------------------------------------------
+## 📝 Surveys
 
-## Installation 
+Please complete both surveys:
 
-Install **R first**, then **RStudio**.
+* 📌 [Registration & Pre-training Survey]()
 
-### 1. Download and install R
+* ✅  [Post-training Survey]()
 
-<img src="img/R-logo.jpeg" width="47" height="40" />
+---
+
+## ⚙️ Installation Guide
+
+> ⚠️ Install **R first**, then **RStudio**
+
+### 1️⃣ Install R
+
+<img src="img/R-logo.jpeg" width="50"/>
 
 -   **For Windows: [Download R](https://cran.r-project.org/bin/windows/base/release.htm)**
 -   **For Mac: [Download R](https://cran.r-project.org/bin/macosx/)**
 
-### 2. Download and install Rstudio
+---
 
-<img src="img/rstudio.png" width="47" height="40" />
+### 2️⃣ Install RStudio
+
+<img src="img/rstudio.png" width="50"/>
 
 -   **For Windows: [Download Rstudio](https://www.rstudio.com/products/rstudio/download/#download)**
 -   **For Mac: [Download Rstudio](https://www.rstudio.com/products/rstudio/download/#download)**
 
-------------------------------------------------------------------------
+---
 
-## Download the Datasets 
+### Datasets
 
-You can download the datasets from the following links:
+Download training datasets:
 
--   [Download yrbss.csv](https://drive.google.com/uc?export=download&id=1CAMbI977y1lYM0RrdTeWiB8eH-WvcD8Q)
+* [yrbss.csv](https://drive.google.com/uc?export=download&id=1CAMbI977y1lYM0RrdTeWiB8eH-WvcD8Q)
 
-------------------------------------------------------------------------
+---
 
-## How to Use This Repository 
+### How to Use This Repository
 
-1.  Click on the **HTML** links to view the slides online.
-2.  Click on the **PDF** links to download the slides for offline use.
-3.  Materials will be updated as the training progresses. Please check back for updates.
+1. Open **HTML slides** for interactive learning
+2. Download **PDF slides** for offline access
+3. Check regularly for updates throughout the training
 
-If you have any questions or issues, please feel free to contact us through [leyk.get\@gmail.com](mailto:leyk.get@gmail.com).
+---
 
-Happy Learning!
+###  Contact
+
+For questions or support:
+
+📧 [leyk.get@gmail.com](mailto:leyk.get@gmail.com)
+
+---
+
