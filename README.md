@@ -1,12 +1,6 @@
 
 # Basic R Training – NDMC, EPHI (2026)
 
-<p align="center"> <img src="https://ephi.gov.et/wp-content/uploads/2021/03/ephi-logo-name-new-3.png" width="200" alt="EPHI Logo"/> </p> <p align="center"> <strong>National Data Management and Analytics Center (NDMC)</strong><br> <strong>Ethiopian Public Health Institute (EPHI)</strong> </p> <p align="center"> <em>Capacity Building for Public Health Data Analytics in Ethiopia</em> </p>
-
-<p align="center">
-  <img src="https://ephi.gov.et/wp-content/uploads/2021/03/ephi-logo-name-new-3.png" width="180" alt="EPHI Logo"/>
-</p>
-
 ![R](https://img.shields.io/badge/R-Programming-blue?logo=r)
 ![RStudio](https://img.shields.io/badge/IDE-RStudio-75AADB?logo=rstudio)
 ![Quarto](https://img.shields.io/badge/Docs-Quarto-39729E?logo=quarto)
