@@ -1,0 +1,701 @@
+mcv1_received,mcv2_received,region,residence,wealth_5_quintile,wealth_3_quintile,education_mother_recod,marital_status,occupation_mother,birth_order,anc_visit,place_delivery,pnc,age,age_group,Zerodose_penta1_recode
+Yes,No,SNNP,rural,2,1,Attended primary education,Married and living together,Employed,2nd,Yes,NA,No,31,24-35 months,No
+Yes,No,SNNP,urban,1,1,Attended tertiary education,Married and living together,Employed,5th,Yes,Health facility,No,21,12-23 months,No
+No,No,Oromia,rural,5,3,Attended Secondary education,Married and living together,Housewife,2nd,No,NA,Yes,32,24-35 months,Yes
+Yes,No,Oromia,urban,3,2,No formal education,Married and living together,Others,6th and above,Yes,Home and others,Yes,18,12-23 months,No
+Yes,No,SNNP,rural,4,3,No formal education,Currently not in marital union,Housewife,1st,No,Home and others,Yes,29,24-35 months,No
+No,No,Oromia,urban,2,1,No formal education,Currently not in marital union,Housewife,6th and above,Yes,Home and others,Yes,25,24-35 months,Yes
+Yes,No,Amhara,urban,4,3,No formal education,Married and living together,Merchant,6th and above,Yes,Health facility,No,12,12-23 months,No
+No,No,Addis Ababa,urban,2,1,Attended primary education,Married and living together,Housewife,2nd,Yes,Home and others,NA,19,12-23 months,Yes
+99,99,Oromia,urban,1,1,Attended primary education,Married and living together,Housewife,2nd,Yes,Health facility,Yes,26,24-35 months,No
+No,No,SNNP,rural,2,1,No formal education,Married and living together,Farmer,2nd,Yes,Home and others,No,33,24-35 months,Yes
+No,No,Oromia,rural,1,1,No formal education,Married and living together,Farmer,6th and above,Yes,Home and others,No,23,12-23 months,Yes
+No,No,SNNP,rural,4,3,No formal education,Married and living together,Farmer,1st,Yes,Home and others,Yes,26,24-35 months,Yes
+Yes,Yes,Oromia,rural,3,2,Attended Secondary education,Married and living together,Housewife,6th and above,Yes,Health facility,No,20,12-23 months,No
+Yes,Yes,Sidama,urban,5,3,No formal education,Married and living together,Housewife,1st,Yes,Home and others,Yes,21,12-23 months,No
+No,No,Oromia,urban,2,1,No formal education,Married and living together,Housewife,5th,Yes,Home and others,Yes,22,12-23 months,Yes
+No,No,Amhara,rural,2,1,No formal education,Married and living together,Housewife,4th,No,Home and others,No,34,24-35 months,Yes
+No,No,Amhara,rural,1,1,Attended primary education,Married and living together,Employed,5th,Yes,Health facility,Yes,21,12-23 months,Yes
+Yes,No,Oromia,urban,1,1,No formal education,Married and living together,Housewife,4th,No,Home and others,No,26,24-35 months,No
+Yes,No,Amhara,rural,1,1,Attended primary education,Currently not in marital union,Housewife,5th,Yes,Home and others,Yes,28,24-35 months,No
+No,No,Oromia,rural,1,1,No formal education,Married but not living together,Farmer,4th,Yes,Health facility,No,23,12-23 months,Yes
+Yes,No,Amhara,urban,5,3,No formal education,Married and living together,Farmer,6th and above,No,Home and others,Yes,21,12-23 months,No
+No,No,Amhara,urban,3,2,Attended Secondary education,Married and living together,Farmer,3rd,Yes,Home and others,NA,12,12-23 months,Yes
+Yes,No,Oromia,rural,4,3,Attended primary education,Married and living together,Housewife,3rd,Yes,Health facility,Yes,13,12-23 months,No
+99,99,Oromia,urban,3,2,Attended primary education,Married and living together,Farmer,1st,Yes,Health facility,No,26,24-35 months,No
+Yes,No,Amhara,urban,2,1,Attended primary education,Married but not living together,Merchant,4th,Yes,Health facility,Yes,15,12-23 months,No
+Yes,No,Oromia,rural,1,1,No formal education,Married and living together,Farmer,2nd,Yes,Home and others,No,12,12-23 months,No
+Yes,Yes,Amhara,rural,5,3,Attended Secondary education,Married and living together,Housewife,1st,No,Home and others,Yes,35,24-35 months,No
+Yes,No,Oromia,urban,3,2,Attended primary education,Currently not in marital union,Farmer,2nd,Yes,Health facility,Yes,34,24-35 months,No
+Yes,No,Oromia,rural,2,1,Attended primary education,Currently not in marital union,Employed,4th,Yes,Health facility,NA,27,24-35 months,No
+No,No,SNNP,rural,2,1,Attended primary education,Married and living together,Farmer,5th,Yes,Home and others,Yes,13,12-23 months,Yes
+Yes,Yes,Addis Ababa,urban,3,2,Attended primary education,Married and living together,Farmer,2nd,Yes,Home and others,Yes,12,12-23 months,No
+Yes,Yes,Oromia,rural,3,2,Attended primary education,Married and living together,Daily laborer,2nd,No,Home and others,Yes,12,12-23 months,No
+No,No,Somali,urban,3,2,Attended primary education,Married but not living together,Housewife,1st,No,Health facility,No,15,12-23 months,Yes
+No,No,Oromia,urban,2,1,Attended primary education,Married but not living together,Employed,2nd,No,Home and others,No,32,24-35 months,Yes
+Yes,No,SNNP,rural,3,2,Attended primary education,Married and living together,Housewife,1st,No,Health facility,No,31,24-35 months,No
+Yes,No,Amhara,urban,1,1,Attended Secondary education,Married and living together,Housewife,1st,Yes,Home and others,Yes,29,24-35 months,No
+Yes,Yes,Oromia,urban,4,3,Attended primary education,Married but not living together,Farmer,6th and above,No,NA,No,18,12-23 months,No
+Yes,No,Amhara,rural,5,3,Attended Secondary education,Married and living together,Merchant,2nd,Yes,Home and others,No,28,24-35 months,No
+Yes,Yes,Somali,rural,3,2,Attended primary education,Married and living together,Farmer,4th,Yes,Home and others,Yes,28,24-35 months,No
+Yes,No,Amhara,urban,5,3,Attended primary education,Married and living together,Housewife,2nd,Yes,Home and others,Yes,27,24-35 months,No
+Yes,No,Amhara,rural,3,2,Attended primary education,Married and living together,Housewife,6th and above,NA,Home and others,Yes,16,12-23 months,No
+No,No,Addis Ababa,rural,3,2,No formal education,Currently not in marital union,Housewife,5th,Yes,Home and others,No,23,12-23 months,Yes
+No,No,Amhara,rural,2,1,Attended Secondary education,Married and living together,Others,3rd,NA,Health facility,No,12,12-23 months,Yes
+Yes,No,Amhara,rural,5,3,No formal education,Married and living together,Employed,1st,Yes,Health facility,Yes,21,12-23 months,No
+Yes,No,Oromia,urban,1,1,Attended primary education,Married and living together,Housewife,5th,Yes,Health facility,Yes,20,12-23 months,No
+No,No,Oromia,rural,4,3,Attended tertiary education,Married and living together,Farmer,1st,No,NA,Yes,32,24-35 months,Yes
+No,No,Dire Dawa,rural,2,1,No formal education,Married and living together,Farmer,2nd,NA,Home and others,No,30,24-35 months,Yes
+No,No,Oromia,urban,1,1,Attended primary education,Married but not living together,Employed,3rd,Yes,Health facility,No,33,24-35 months,Yes
+No,No,Amhara,urban,4,3,Attended primary education,Married and living together,Employed,5th,No,Health facility,Yes,25,24-35 months,Yes
+Yes,No,Oromia,rural,4,3,Attended primary education,Married and living together,Housewife,5th,No,Health facility,Yes,28,24-35 months,No
+Yes,No,Gambela,rural,4,3,Attended primary education,Married and living together,Employed,3rd,NA,Home and others,No,18,12-23 months,No
+No,No,SNNP,urban,1,1,No formal education,Currently not in marital union,Farmer,1st,No,Home and others,No,34,24-35 months,Yes
+Yes,No,Dire Dawa,rural,3,2,No formal education,Married and living together,Daily laborer,1st,Yes,Health facility,No,29,24-35 months,No
+No,No,Addis Ababa,rural,2,1,Attended primary education,Married and living together,Housewife,3rd,Yes,Home and others,NA,35,24-35 months,Yes
+Yes,No,Amhara,rural,1,1,No formal education,Currently not in marital union,Farmer,1st,Yes,Home and others,No,31,24-35 months,No
+No,No,Somali,rural,4,3,No formal education,Married and living together,Farmer,6th and above,Yes,Health facility,No,17,12-23 months,Yes
+Yes,No,Somali,rural,5,3,Attended primary education,Married and living together,Housewife,3rd,Yes,Health facility,NA,26,24-35 months,No
+Yes,No,Oromia,urban,5,3,Attended primary education,Married and living together,Farmer,1st,Yes,Home and others,No,15,12-23 months,No
+Yes,No,Dire Dawa,rural,5,3,Attended primary education,Married and living together,Housewife,2nd,Yes,Home and others,No,26,24-35 months,No
+Yes,No,Oromia,rural,1,1,No formal education,Married and living together,Daily laborer,2nd,Yes,Home and others,Yes,12,12-23 months,No
+Yes,Yes,Oromia,urban,2,1,No formal education,Currently not in marital union,Farmer,1st,Yes,Health facility,Yes,26,24-35 months,No
+Yes,Yes,Addis Ababa,urban,3,2,Attended Secondary education,Married and living together,Others,5th,No,Health facility,Yes,23,12-23 months,No
+No,No,SNNP,rural,5,3,Attended tertiary education,Married and living together,Housewife,3rd,Yes,Health facility,Yes,31,24-35 months,Yes
+Yes,No,Amhara,rural,5,3,No formal education,Married and living together,Farmer,1st,Yes,Home and others,Yes,18,12-23 months,No
+Yes,No,Amhara,rural,4,3,No formal education,Married and living together,Housewife,2nd,No,Health facility,No,30,24-35 months,No
+No,No,Oromia,rural,3,2,No formal education,Married and living together,Housewife,6th and above,No,Health facility,Yes,27,24-35 months,Yes
+Yes,No,SNNP,rural,1,1,Attended primary education,Currently not in marital union,Housewife,4th,Yes,Health facility,No,18,12-23 months,No
+No,No,Amhara,rural,1,1,No formal education,Married and living together,Farmer,1st,Yes,Health facility,Yes,14,12-23 months,Yes
+Yes,No,SNNP,rural,3,2,Attended Secondary education,Married and living together,Housewife,3rd,Yes,NA,No,22,12-23 months,No
+Yes,No,SNNP,urban,4,3,Attended primary education,Married and living together,Housewife,6th and above,Yes,Home and others,No,33,24-35 months,No
+No,No,Addis Ababa,rural,1,1,No formal education,Married and living together,Employed,4th,No,Home and others,Yes,34,24-35 months,Yes
+Yes,Yes,Amhara,rural,4,3,Attended primary education,Married and living together,Farmer,4th,Yes,Home and others,NA,13,12-23 months,No
+Yes,Yes,Somali,urban,3,2,Attended Secondary education,Married and living together,Farmer,6th and above,No,Health facility,No,33,24-35 months,No
+Yes,No,Sidama,urban,4,3,No formal education,Married but not living together,Farmer,5th,Yes,Home and others,No,26,24-35 months,No
+No,No,Oromia,rural,2,1,Attended Secondary education,Married and living together,Housewife,2nd,No,Home and others,No,25,24-35 months,Yes
+99,99,SNNP,urban,3,2,Attended primary education,Currently not in marital union,Merchant,2nd,Yes,Health facility,Yes,26,24-35 months,No
+No,No,Somali,rural,1,1,No formal education,Married and living together,Farmer,3rd,Yes,Home and others,No,22,12-23 months,Yes
+No,No,Amhara,urban,5,3,Attended primary education,Married and living together,Housewife,3rd,Yes,Health facility,No,18,12-23 months,Yes
+Yes,No,Oromia,rural,5,3,Attended primary education,Married and living together,Housewife,6th and above,Yes,Health facility,Yes,17,12-23 months,No
+No,No,Addis Ababa,rural,3,2,No formal education,Currently not in marital union,Farmer,1st,Yes,Health facility,Yes,15,12-23 months,Yes
+Yes,No,Oromia,rural,3,2,No formal education,Married and living together,Farmer,1st,Yes,Health facility,Yes,13,12-23 months,No
+Yes,No,Dire Dawa,rural,3,2,Attended primary education,Married and living together,Daily laborer,1st,No,Health facility,No,35,24-35 months,No
+Yes,No,Somali,rural,1,1,Attended Secondary education,Married and living together,Farmer,1st,Yes,Health facility,No,12,12-23 months,No
+No,No,Gambela,rural,2,1,No formal education,Married and living together,Housewife,2nd,Yes,Health facility,No,33,24-35 months,Yes
+99,99,Oromia,rural,2,1,Attended primary education,Married and living together,Housewife,1st,Yes,Health facility,No,35,24-35 months,No
+No,No,Gambela,rural,5,3,Attended primary education,Married and living together,Housewife,6th and above,Yes,Health facility,Yes,30,24-35 months,Yes
+No,No,SNNP,rural,4,3,Attended primary education,Married and living together,Housewife,2nd,Yes,Health facility,Yes,13,12-23 months,Yes
+Yes,No,Dire Dawa,rural,4,3,No formal education,Married and living together,Merchant,6th and above,Yes,Home and others,NA,21,12-23 months,No
+Yes,Yes,Oromia,urban,4,3,No formal education,Currently not in marital union,Daily laborer,1st,Yes,Home and others,No,32,24-35 months,No
+Yes,No,Oromia,urban,1,1,Attended Secondary education,Married and living together,Housewife,5th,Yes,Health facility,No,33,24-35 months,No
+Yes,No,Dire Dawa,rural,2,1,No formal education,Married and living together,Housewife,2nd,No,Home and others,Yes,16,12-23 months,No
+Yes,No,Somali,rural,2,1,Attended primary education,Married and living together,Farmer,2nd,No,Health facility,Yes,32,24-35 months,No
+No,No,Somali,rural,4,3,Attended primary education,Married and living together,Employed,1st,No,Home and others,No,29,24-35 months,Yes
+Yes,Yes,Oromia,rural,4,3,No formal education,Married and living together,Housewife,5th,Yes,Home and others,No,19,12-23 months,No
+Yes,Yes,Amhara,rural,5,3,No formal education,Married and living together,Employed,2nd,Yes,Home and others,Yes,17,12-23 months,No
+Yes,Yes,Amhara,urban,2,1,No formal education,Currently not in marital union,Housewife,1st,Yes,Health facility,Yes,25,24-35 months,No
+Yes,Yes,Somali,rural,3,2,Attended Secondary education,Currently not in marital union,Housewife,3rd,Yes,Health facility,No,13,12-23 months,No
+Yes,No,Amhara,urban,1,1,Attended primary education,Currently not in marital union,Others,4th,Yes,NA,No,23,12-23 months,No
+Yes,No,SNNP,urban,3,2,No formal education,Married and living together,Farmer,6th and above,No,Home and others,No,27,24-35 months,No
+Yes,No,Amhara,rural,1,1,Attended primary education,Married and living together,Daily laborer,3rd,No,Home and others,Yes,34,24-35 months,No
+No,No,Oromia,rural,4,3,Attended primary education,Married and living together,Farmer,1st,Yes,Health facility,No,26,24-35 months,Yes
+No,No,Sidama,rural,3,2,Attended primary education,Married and living together,Daily laborer,6th and above,No,Health facility,Yes,34,24-35 months,Yes
+Yes,Yes,Amhara,rural,5,3,No formal education,Married and living together,Merchant,1st,Yes,NA,Yes,29,24-35 months,No
+Yes,No,Oromia,rural,2,1,Attended primary education,Married but not living together,Employed,3rd,Yes,NA,Yes,17,12-23 months,No
+Yes,No,Oromia,rural,3,2,No formal education,Married and living together,Employed,1st,Yes,Health facility,No,28,24-35 months,No
+No,No,Oromia,rural,3,2,Attended primary education,Married and living together,Merchant,4th,No,Home and others,No,28,24-35 months,Yes
+Yes,Yes,SNNP,rural,4,3,No formal education,Married and living together,Housewife,3rd,No,Home and others,No,21,12-23 months,No
+Yes,No,SNNP,rural,2,1,Attended primary education,Married and living together,Housewife,1st,Yes,Health facility,No,12,12-23 months,No
+Yes,Yes,Oromia,rural,5,3,No formal education,Married but not living together,Housewife,3rd,Yes,Home and others,No,27,24-35 months,No
+Yes,No,SNNP,rural,2,1,No formal education,Married and living together,Employed,4th,Yes,Health facility,No,14,12-23 months,No
+Yes,Yes,Amhara,rural,4,3,No formal education,Married and living together,Daily laborer,3rd,Yes,Health facility,Yes,18,12-23 months,No
+Yes,No,Addis Ababa,rural,2,1,Attended primary education,Married and living together,Farmer,2nd,No,Health facility,No,26,24-35 months,No
+No,No,Oromia,rural,5,3,Attended Secondary education,Married and living together,Housewife,6th and above,No,Home and others,Yes,13,12-23 months,Yes
+99,99,Amhara,urban,1,1,Attended primary education,Married and living together,Housewife,2nd,No,Home and others,No,15,12-23 months,No
+Yes,Yes,Oromia,rural,3,2,Attended primary education,Currently not in marital union,Merchant,1st,Yes,Home and others,Yes,31,24-35 months,No
+Yes,Yes,Oromia,urban,5,3,No formal education,Married and living together,Employed,6th and above,Yes,Health facility,No,35,24-35 months,No
+No,No,SNNP,rural,2,1,Attended primary education,Married and living together,Farmer,2nd,No,Health facility,No,23,12-23 months,Yes
+Yes,Yes,Oromia,rural,4,3,Attended primary education,Currently not in marital union,Farmer,6th and above,Yes,Home and others,Yes,30,24-35 months,No
+No,No,Oromia,rural,3,2,Attended Secondary education,Currently not in marital union,Housewife,4th,Yes,Health facility,Yes,26,24-35 months,Yes
+Yes,No,Somali,urban,3,2,Attended primary education,Married and living together,Farmer,1st,Yes,Health facility,No,31,24-35 months,No
+No,No,Amhara,rural,4,3,No formal education,Currently not in marital union,Housewife,6th and above,Yes,Health facility,Yes,32,24-35 months,Yes
+Yes,No,Oromia,rural,3,2,No formal education,Married and living together,Employed,3rd,Yes,Health facility,No,31,24-35 months,No
+Yes,No,SNNP,rural,1,1,No formal education,Married but not living together,Farmer,3rd,NA,Home and others,Yes,18,12-23 months,No
+Yes,No,Somali,urban,3,2,Attended primary education,Currently not in marital union,Farmer,3rd,Yes,Home and others,No,25,24-35 months,No
+No,No,Amhara,rural,1,1,Attended primary education,Married and living together,Housewife,5th,Yes,Health facility,No,34,24-35 months,Yes
+Yes,No,Oromia,rural,5,3,No formal education,Married and living together,Housewife,4th,No,Home and others,Yes,16,12-23 months,No
+Yes,Yes,Amhara,rural,4,3,No formal education,Currently not in marital union,Housewife,3rd,Yes,Home and others,No,15,12-23 months,No
+99,99,Amhara,urban,2,1,Attended primary education,Currently not in marital union,Farmer,2nd,Yes,Health facility,No,30,24-35 months,No
+No,No,Oromia,rural,5,3,Attended primary education,Married and living together,Daily laborer,5th,Yes,Health facility,No,16,12-23 months,Yes
+No,No,Amhara,rural,1,1,Attended primary education,Married and living together,Housewife,3rd,Yes,Health facility,Yes,32,24-35 months,Yes
+Yes,Yes,Amhara,urban,5,3,No formal education,Married and living together,Farmer,6th and above,Yes,Home and others,Yes,20,12-23 months,No
+No,No,SNNP,rural,3,2,Attended Secondary education,Married and living together,Daily laborer,2nd,Yes,Home and others,No,22,12-23 months,Yes
+Yes,Yes,Oromia,rural,1,1,Attended primary education,Currently not in marital union,Farmer,6th and above,No,Home and others,No,13,12-23 months,No
+Yes,No,Oromia,urban,4,3,No formal education,Married and living together,Daily laborer,5th,Yes,NA,Yes,29,24-35 months,No
+Yes,No,Addis Ababa,urban,5,3,No formal education,Married and living together,Merchant,6th and above,Yes,Home and others,No,28,24-35 months,No
+No,No,Oromia,rural,3,2,Attended Secondary education,Married and living together,Housewife,4th,No,Home and others,No,35,24-35 months,Yes
+No,No,Oromia,rural,3,2,No formal education,Married and living together,Merchant,6th and above,Yes,Home and others,Yes,21,12-23 months,Yes
+Yes,No,Amhara,rural,2,1,Attended primary education,Currently not in marital union,Farmer,1st,Yes,Home and others,No,29,24-35 months,No
+No,No,SNNP,rural,1,1,Attended primary education,Married and living together,Housewife,1st,Yes,Health facility,No,15,12-23 months,Yes
+No,No,Amhara,urban,4,3,Attended primary education,Married and living together,Housewife,4th,Yes,Home and others,Yes,13,12-23 months,Yes
+No,No,SNNP,urban,2,1,No formal education,Married and living together,Farmer,2nd,NA,NA,Yes,34,24-35 months,Yes
+Yes,Yes,Oromia,urban,5,3,No formal education,Married and living together,Employed,1st,Yes,Health facility,Yes,33,24-35 months,No
+Yes,No,Amhara,rural,2,1,Attended primary education,Married and living together,Farmer,1st,No,Health facility,NA,30,24-35 months,No
+No,No,SNNP,urban,3,2,Attended Secondary education,Married and living together,Housewife,2nd,Yes,Health facility,No,30,24-35 months,Yes
+No,No,Addis Ababa,urban,2,1,Attended primary education,Married and living together,Housewife,3rd,Yes,Health facility,No,25,24-35 months,Yes
+Yes,Yes,Oromia,urban,5,3,Attended primary education,Married and living together,Farmer,2nd,No,Home and others,No,30,24-35 months,No
+No,No,Oromia,urban,4,3,No formal education,Married and living together,Farmer,2nd,No,Health facility,No,12,12-23 months,Yes
+Yes,No,SNNP,rural,1,1,Attended primary education,Married and living together,Farmer,3rd,Yes,Home and others,Yes,15,12-23 months,No
+No,No,SNNP,rural,2,1,Attended Secondary education,Married but not living together,Housewife,6th and above,No,Home and others,No,35,24-35 months,Yes
+No,No,Oromia,rural,1,1,Attended Secondary education,Married and living together,Housewife,2nd,NA,Home and others,Yes,23,12-23 months,Yes
+Yes,No,Oromia,urban,2,1,No formal education,Married but not living together,Farmer,2nd,Yes,Home and others,No,26,24-35 months,No
+No,No,Oromia,rural,5,3,No formal education,Married and living together,Housewife,3rd,Yes,NA,No,25,24-35 months,Yes
+Yes,No,Gambela,urban,3,2,Attended primary education,Married and living together,Farmer,1st,Yes,Home and others,Yes,18,12-23 months,No
+No,No,Amhara,rural,2,1,No formal education,Married and living together,Housewife,5th,Yes,Home and others,No,17,12-23 months,Yes
+Yes,Yes,Somali,rural,5,3,No formal education,Married and living together,Farmer,2nd,No,Home and others,No,12,12-23 months,No
+Yes,No,Somali,urban,5,3,No formal education,Married and living together,Housewife,1st,Yes,Home and others,No,28,24-35 months,No
+Yes,No,Amhara,rural,2,1,Attended primary education,Married but not living together,Farmer,5th,Yes,Home and others,Yes,33,24-35 months,No
+Yes,No,SNNP,rural,2,1,No formal education,Married and living together,Housewife,3rd,Yes,Health facility,No,16,12-23 months,No
+No,No,Somali,urban,1,1,No formal education,Currently not in marital union,Housewife,2nd,Yes,Home and others,No,25,24-35 months,Yes
+No,No,Oromia,urban,5,3,Attended tertiary education,Married and living together,Housewife,4th,Yes,Home and others,No,21,12-23 months,Yes
+Yes,No,Oromia,rural,2,1,No formal education,Married and living together,Merchant,2nd,Yes,Home and others,Yes,29,24-35 months,No
+Yes,No,Amhara,urban,2,1,No formal education,Married and living together,Employed,5th,Yes,Health facility,Yes,28,24-35 months,No
+No,No,Dire Dawa,rural,5,3,No formal education,Married and living together,Employed,3rd,Yes,Health facility,Yes,29,24-35 months,Yes
+Yes,No,Oromia,rural,3,2,No formal education,Currently not in marital union,Farmer,2nd,Yes,Health facility,Yes,28,24-35 months,No
+Yes,No,Oromia,urban,1,1,Attended primary education,Married and living together,Merchant,1st,Yes,Home and others,No,21,12-23 months,No
+No,No,Amhara,rural,3,2,No formal education,Married and living together,Farmer,4th,No,Health facility,Yes,17,12-23 months,Yes
+Yes,No,Oromia,rural,1,1,No formal education,Currently not in marital union,Housewife,3rd,Yes,Home and others,No,24,24-35 months,No
+No,No,Amhara,rural,1,1,No formal education,Married but not living together,Farmer,2nd,Yes,Health facility,Yes,12,12-23 months,Yes
+Yes,Yes,Amhara,urban,3,2,No formal education,Married and living together,Employed,2nd,Yes,Home and others,NA,35,24-35 months,No
+Yes,No,Oromia,rural,3,2,No formal education,Married and living together,Housewife,3rd,No,Home and others,Yes,13,12-23 months,No
+No,No,Sidama,rural,3,2,No formal education,Married and living together,Farmer,2nd,No,Home and others,Yes,35,24-35 months,Yes
+No,No,Somali,rural,3,2,No formal education,Married and living together,Merchant,2nd,No,Home and others,Yes,16,12-23 months,Yes
+No,No,Amhara,urban,4,3,Attended Secondary education,Currently not in marital union,Farmer,1st,Yes,Health facility,Yes,26,24-35 months,Yes
+No,No,Somali,rural,5,3,No formal education,Married and living together,Employed,1st,No,Home and others,Yes,25,24-35 months,Yes
+No,No,Oromia,rural,4,3,No formal education,Married and living together,Housewife,1st,No,Health facility,No,33,24-35 months,Yes
+No,No,SNNP,urban,1,1,No formal education,Married and living together,Housewife,4th,No,Home and others,Yes,30,24-35 months,Yes
+No,No,Addis Ababa,rural,2,1,Attended Secondary education,Married and living together,Housewife,1st,Yes,NA,No,30,24-35 months,Yes
+Yes,No,Dire Dawa,rural,5,3,Attended Secondary education,Married and living together,Housewife,4th,Yes,Health facility,Yes,17,12-23 months,No
+Yes,Yes,Gambela,rural,5,3,No formal education,Married and living together,Housewife,6th and above,Yes,Health facility,No,30,24-35 months,No
+No,No,Amhara,rural,2,1,Attended Secondary education,Married and living together,Others,2nd,No,Health facility,No,13,12-23 months,Yes
+Yes,No,Oromia,urban,1,1,Attended primary education,Currently not in marital union,Farmer,4th,Yes,Health facility,Yes,35,24-35 months,No
+Yes,No,Oromia,urban,2,1,Attended primary education,Married and living together,Housewife,3rd,No,Home and others,Yes,16,12-23 months,No
+No,No,Dire Dawa,rural,4,3,Attended primary education,Married and living together,Housewife,3rd,No,Health facility,Yes,15,12-23 months,Yes
+Yes,No,SNNP,rural,4,3,Attended primary education,Married and living together,Farmer,1st,Yes,Home and others,No,29,24-35 months,No
+No,No,Amhara,rural,1,1,Attended Secondary education,Married and living together,Housewife,5th,Yes,Health facility,No,35,24-35 months,Yes
+No,No,Oromia,rural,3,2,Attended tertiary education,Married and living together,Employed,2nd,NA,Home and others,No,27,24-35 months,Yes
+99,99,Sidama,rural,3,2,Attended Secondary education,Married and living together,Farmer,2nd,Yes,Home and others,No,27,24-35 months,No
+Yes,No,Oromia,rural,4,3,Attended Secondary education,Currently not in marital union,Farmer,1st,No,Health facility,No,18,12-23 months,No
+Yes,No,Oromia,rural,1,1,Attended primary education,Currently not in marital union,Daily laborer,1st,No,Home and others,No,21,12-23 months,No
+Yes,No,Amhara,urban,5,3,Attended primary education,Married and living together,Housewife,5th,Yes,Health facility,Yes,14,12-23 months,No
+Yes,Yes,Amhara,rural,1,1,Attended primary education,Married and living together,Housewife,1st,Yes,Home and others,No,23,12-23 months,No
+No,No,Oromia,urban,3,2,No formal education,Married and living together,Housewife,1st,No,Health facility,NA,13,12-23 months,Yes
+Yes,No,Oromia,urban,1,1,No formal education,Married and living together,Housewife,5th,Yes,Health facility,Yes,21,12-23 months,No
+Yes,No,Addis Ababa,rural,1,1,No formal education,Married and living together,Housewife,2nd,Yes,Home and others,Yes,13,12-23 months,No
+No,No,Amhara,rural,2,1,Attended tertiary education,Married but not living together,Employed,3rd,No,Home and others,No,19,12-23 months,Yes
+No,No,Amhara,rural,2,1,Attended Secondary education,Married and living together,Housewife,6th and above,No,Home and others,No,17,12-23 months,Yes
+No,No,Oromia,rural,4,3,No formal education,Married and living together,Housewife,3rd,NA,Health facility,Yes,27,24-35 months,Yes
+Yes,No,SNNP,rural,2,1,Attended primary education,Married and living together,Daily laborer,3rd,Yes,Home and others,Yes,35,24-35 months,No
+Yes,No,SNNP,rural,4,3,Attended primary education,Married and living together,Housewife,2nd,Yes,Health facility,No,18,12-23 months,No
+Yes,Yes,Oromia,rural,3,2,Attended primary education,Married but not living together,Housewife,2nd,No,Home and others,Yes,21,12-23 months,No
+Yes,No,Addis Ababa,rural,1,1,No formal education,Married and living together,Farmer,3rd,Yes,Health facility,Yes,26,24-35 months,No
+No,No,SNNP,rural,1,1,Attended tertiary education,Married and living together,Housewife,3rd,Yes,Health facility,Yes,24,24-35 months,Yes
+Yes,Yes,Amhara,urban,1,1,Attended primary education,Married and living together,Housewife,2nd,Yes,Home and others,No,21,12-23 months,No
+Yes,No,Gambela,rural,1,1,Attended primary education,Married and living together,Farmer,2nd,Yes,Home and others,No,21,12-23 months,No
+No,No,Amhara,rural,3,2,Attended Secondary education,Married and living together,Housewife,2nd,NA,Home and others,Yes,16,12-23 months,Yes
+No,No,Somali,urban,2,1,Attended primary education,Married and living together,Housewife,6th and above,Yes,Health facility,No,29,24-35 months,Yes
+No,No,Oromia,urban,1,1,Attended Secondary education,Married but not living together,Housewife,1st,Yes,Health facility,No,13,12-23 months,Yes
+Yes,No,Gambela,rural,2,1,Attended primary education,Married and living together,Housewife,2nd,No,Health facility,Yes,25,24-35 months,No
+No,No,Sidama,urban,1,1,Attended primary education,Currently not in marital union,Housewife,6th and above,Yes,Health facility,Yes,33,24-35 months,Yes
+Yes,No,SNNP,rural,2,1,Attended primary education,Married and living together,Farmer,4th,No,Health facility,NA,34,24-35 months,No
+Yes,Yes,Somali,rural,1,1,Attended Secondary education,Currently not in marital union,Housewife,1st,Yes,Home and others,No,30,24-35 months,No
+Yes,No,Oromia,rural,2,1,Attended primary education,Married and living together,Housewife,5th,Yes,Health facility,No,23,12-23 months,No
+Yes,No,Oromia,rural,3,2,Attended tertiary education,Married and living together,Housewife,1st,Yes,Home and others,Yes,19,12-23 months,No
+Yes,No,Oromia,rural,5,3,No formal education,Married and living together,Housewife,6th and above,Yes,Health facility,Yes,30,24-35 months,No
+No,No,Dire Dawa,rural,5,3,Attended Secondary education,Married and living together,Farmer,1st,Yes,Health facility,No,12,12-23 months,Yes
+Yes,No,SNNP,rural,2,1,Attended primary education,Married and living together,Housewife,3rd,Yes,Home and others,No,33,24-35 months,No
+Yes,Yes,Oromia,rural,5,3,Attended primary education,Married and living together,Housewife,2nd,Yes,Health facility,No,24,24-35 months,No
+Yes,No,Oromia,rural,1,1,Attended Secondary education,Married but not living together,Housewife,2nd,Yes,Home and others,Yes,14,12-23 months,No
+No,No,Oromia,rural,4,3,No formal education,Married and living together,Housewife,6th and above,Yes,Home and others,Yes,24,24-35 months,Yes
+No,No,Amhara,urban,1,1,Attended primary education,Married and living together,Merchant,2nd,Yes,Health facility,No,31,24-35 months,Yes
+Yes,No,Oromia,urban,3,2,Attended primary education,Married and living together,Employed,1st,NA,Health facility,No,19,12-23 months,No
+Yes,No,SNNP,rural,3,2,No formal education,Currently not in marital union,Housewife,3rd,Yes,NA,No,34,24-35 months,No
+No,No,Oromia,rural,1,1,Attended Secondary education,Married and living together,Housewife,3rd,No,Health facility,No,16,12-23 months,Yes
+Yes,Yes,Somali,urban,5,3,Attended primary education,Married and living together,Farmer,2nd,Yes,Home and others,No,20,12-23 months,No
+No,No,Amhara,rural,2,1,Attended Secondary education,Married and living together,Others,2nd,No,Health facility,Yes,27,24-35 months,Yes
+Yes,Yes,Addis Ababa,rural,4,3,No formal education,Married and living together,Housewife,1st,Yes,Health facility,No,25,24-35 months,No
+No,No,Somali,urban,3,2,Attended primary education,Married and living together,Others,5th,Yes,Health facility,Yes,18,12-23 months,Yes
+Yes,Yes,Oromia,rural,1,1,Attended tertiary education,Married and living together,Housewife,2nd,Yes,Health facility,Yes,13,12-23 months,No
+Yes,Yes,Oromia,urban,5,3,No formal education,Married and living together,Others,1st,Yes,NA,No,22,12-23 months,No
+Yes,Yes,Oromia,rural,3,2,No formal education,Currently not in marital union,Employed,5th,Yes,Home and others,Yes,31,24-35 months,No
+No,No,Amhara,urban,1,1,Attended primary education,Married and living together,Housewife,2nd,Yes,Home and others,No,34,24-35 months,Yes
+No,No,Oromia,rural,1,1,Attended Secondary education,Currently not in marital union,Housewife,1st,Yes,NA,No,18,12-23 months,Yes
+Yes,No,Amhara,rural,4,3,Attended Secondary education,Married and living together,Others,1st,No,Health facility,NA,26,24-35 months,No
+No,No,Amhara,rural,1,1,No formal education,Married and living together,Daily laborer,3rd,No,Health facility,Yes,15,12-23 months,Yes
+No,No,Addis Ababa,rural,2,1,Attended primary education,Married and living together,Merchant,5th,Yes,Health facility,No,15,12-23 months,Yes
+Yes,No,Somali,rural,3,2,No formal education,Currently not in marital union,Housewife,3rd,No,Health facility,Yes,13,12-23 months,No
+Yes,Yes,Gambela,urban,5,3,No formal education,Currently not in marital union,Housewife,6th and above,No,Home and others,Yes,17,12-23 months,No
+Yes,Yes,Oromia,rural,5,3,Attended primary education,Married and living together,Farmer,3rd,Yes,Health facility,No,32,24-35 months,No
+Yes,No,Oromia,urban,5,3,Attended Secondary education,Currently not in marital union,Housewife,2nd,Yes,Health facility,No,28,24-35 months,No
+Yes,Yes,Addis Ababa,rural,5,3,Attended primary education,Currently not in marital union,Farmer,2nd,Yes,Home and others,No,27,24-35 months,No
+No,No,Gambela,rural,1,1,No formal education,Married and living together,Housewife,6th and above,Yes,Home and others,Yes,22,12-23 months,Yes
+Yes,No,Amhara,urban,1,1,Attended primary education,Married and living together,Farmer,3rd,Yes,Home and others,Yes,26,24-35 months,No
+Yes,Yes,Gambela,urban,4,3,Attended Secondary education,Married and living together,Farmer,1st,Yes,NA,Yes,20,12-23 months,No
+Yes,No,Sidama,rural,3,2,Attended primary education,Married but not living together,Farmer,6th and above,Yes,Home and others,No,21,12-23 months,No
+No,No,SNNP,urban,2,1,Attended primary education,Married and living together,Daily laborer,4th,No,Home and others,No,12,12-23 months,Yes
+No,No,Amhara,urban,4,3,No formal education,Married and living together,Housewife,2nd,Yes,Health facility,Yes,33,24-35 months,Yes
+Yes,Yes,Sidama,urban,4,3,No formal education,Married but not living together,Farmer,5th,No,Health facility,Yes,31,24-35 months,No
+99,99,Amhara,rural,4,3,No formal education,Currently not in marital union,Farmer,5th,Yes,Health facility,No,30,24-35 months,No
+Yes,Yes,Oromia,rural,5,3,Attended primary education,Married and living together,Daily laborer,6th and above,Yes,Home and others,No,34,24-35 months,No
+No,No,Oromia,rural,3,2,No formal education,Married and living together,Housewife,1st,No,Home and others,No,27,24-35 months,Yes
+Yes,No,SNNP,rural,5,3,Attended primary education,Married and living together,Farmer,3rd,Yes,Health facility,Yes,29,24-35 months,No
+Yes,No,Amhara,rural,5,3,No formal education,Currently not in marital union,Employed,1st,No,Home and others,Yes,24,24-35 months,No
+Yes,Yes,Oromia,urban,3,2,Attended primary education,Married and living together,Farmer,2nd,Yes,Home and others,No,15,12-23 months,No
+99,99,Somali,urban,1,1,No formal education,Married but not living together,Employed,1st,Yes,Health facility,Yes,29,24-35 months,No
+Yes,Yes,Amhara,rural,5,3,No formal education,Married and living together,Daily laborer,6th and above,Yes,Health facility,No,25,24-35 months,No
+No,No,Oromia,rural,4,3,Attended primary education,Currently not in marital union,Farmer,5th,Yes,Home and others,No,13,12-23 months,Yes
+No,No,Somali,urban,1,1,Attended Secondary education,Married but not living together,Farmer,2nd,No,Home and others,No,21,12-23 months,Yes
+Yes,No,Addis Ababa,rural,2,1,Attended primary education,Married but not living together,Housewife,5th,No,Home and others,No,20,12-23 months,No
+Yes,Yes,Sidama,rural,4,3,Attended Secondary education,Married and living together,Farmer,3rd,Yes,Health facility,No,31,24-35 months,No
+Yes,Yes,SNNP,rural,2,1,No formal education,Married and living together,Housewife,1st,Yes,Health facility,Yes,22,12-23 months,No
+No,No,Amhara,urban,2,1,Attended primary education,Married and living together,Farmer,1st,No,Home and others,No,23,12-23 months,Yes
+Yes,No,SNNP,rural,5,3,Attended primary education,Married and living together,Housewife,2nd,NA,Home and others,Yes,35,24-35 months,No
+Yes,Yes,Gambela,urban,4,3,Attended tertiary education,Currently not in marital union,Housewife,6th and above,No,Home and others,Yes,23,12-23 months,No
+Yes,No,Oromia,rural,5,3,No formal education,Married and living together,Employed,1st,No,Health facility,Yes,28,24-35 months,No
+No,No,Somali,rural,1,1,No formal education,Married and living together,Merchant,1st,No,Home and others,No,25,24-35 months,Yes
+Yes,Yes,Oromia,urban,3,2,Attended primary education,Currently not in marital union,Housewife,2nd,No,Health facility,Yes,12,12-23 months,No
+Yes,Yes,Amhara,urban,5,3,Attended primary education,Currently not in marital union,Farmer,5th,Yes,Home and others,Yes,31,24-35 months,No
+Yes,No,SNNP,rural,4,3,Attended primary education,Married and living together,Farmer,5th,No,NA,No,19,12-23 months,No
+No,No,SNNP,urban,1,1,Attended primary education,Married and living together,Housewife,2nd,Yes,Home and others,No,24,24-35 months,Yes
+Yes,No,Somali,rural,2,1,Attended Secondary education,Married and living together,Housewife,1st,No,Home and others,No,26,24-35 months,No
+No,No,Amhara,rural,3,2,Attended primary education,Currently not in marital union,Farmer,6th and above,Yes,Health facility,Yes,28,24-35 months,Yes
+No,No,Amhara,rural,3,2,No formal education,Married and living together,Housewife,2nd,Yes,Health facility,No,29,24-35 months,Yes
+Yes,No,Oromia,rural,1,1,Attended primary education,Married and living together,Housewife,2nd,Yes,Home and others,No,29,24-35 months,No
+No,No,Oromia,urban,1,1,Attended primary education,Married and living together,Housewife,2nd,No,Home and others,Yes,27,24-35 months,Yes
+Yes,No,SNNP,rural,2,1,Attended Secondary education,Married and living together,Housewife,4th,Yes,Health facility,No,26,24-35 months,No
+No,No,SNNP,rural,3,2,No formal education,Married and living together,Farmer,1st,Yes,Home and others,Yes,16,12-23 months,Yes
+Yes,No,Sidama,rural,5,3,Attended primary education,Married and living together,Housewife,2nd,Yes,Health facility,Yes,29,24-35 months,No
+Yes,Yes,Somali,rural,5,3,Attended tertiary education,Married and living together,Housewife,2nd,No,Home and others,Yes,13,12-23 months,No
+No,No,SNNP,urban,2,1,Attended tertiary education,Married and living together,Farmer,4th,No,Health facility,No,30,24-35 months,Yes
+Yes,No,Oromia,rural,5,3,No formal education,Married and living together,Farmer,6th and above,No,NA,No,32,24-35 months,No
+Yes,Yes,SNNP,rural,4,3,Attended tertiary education,Married and living together,Housewife,2nd,No,Health facility,Yes,32,24-35 months,No
+No,No,Somali,rural,2,1,Attended Secondary education,Married but not living together,Housewife,2nd,Yes,Health facility,Yes,12,12-23 months,Yes
+No,No,SNNP,urban,1,1,No formal education,Currently not in marital union,Merchant,2nd,No,Health facility,Yes,13,12-23 months,Yes
+No,No,SNNP,rural,3,2,Attended Secondary education,Married and living together,Housewife,4th,Yes,Home and others,No,17,12-23 months,Yes
+No,No,Sidama,rural,1,1,Attended primary education,Currently not in marital union,Housewife,5th,No,NA,No,18,12-23 months,Yes
+Yes,No,Amhara,rural,1,1,Attended primary education,Married and living together,Daily laborer,4th,Yes,Health facility,Yes,14,12-23 months,No
+Yes,No,Oromia,rural,1,1,Attended primary education,Married and living together,Housewife,6th and above,Yes,Health facility,No,18,12-23 months,No
+No,No,Oromia,rural,1,1,No formal education,Currently not in marital union,Farmer,3rd,No,Health facility,Yes,22,12-23 months,Yes
+Yes,No,Addis Ababa,urban,4,3,Attended primary education,Married and living together,Merchant,5th,Yes,Health facility,Yes,21,12-23 months,No
+Yes,Yes,Somali,rural,4,3,No formal education,Married and living together,Farmer,6th and above,Yes,Health facility,No,26,24-35 months,No
+No,No,Oromia,rural,1,1,Attended primary education,Married and living together,Farmer,3rd,Yes,Health facility,Yes,32,24-35 months,Yes
+No,No,Addis Ababa,rural,1,1,Attended Secondary education,Married and living together,Farmer,3rd,No,Health facility,Yes,32,24-35 months,Yes
+Yes,No,SNNP,urban,3,2,Attended primary education,Married and living together,Daily laborer,2nd,Yes,Health facility,Yes,34,24-35 months,No
+Yes,No,Addis Ababa,rural,3,2,No formal education,Currently not in marital union,Farmer,1st,Yes,Health facility,Yes,25,24-35 months,No
+No,No,Somali,rural,4,3,No formal education,Married and living together,Farmer,5th,No,Home and others,NA,16,12-23 months,Yes
+Yes,No,SNNP,rural,4,3,Attended primary education,Married and living together,Employed,1st,Yes,Home and others,Yes,28,24-35 months,No
+No,No,SNNP,rural,1,1,No formal education,Married and living together,Farmer,3rd,Yes,Home and others,Yes,26,24-35 months,Yes
+Yes,Yes,Amhara,urban,5,3,Attended primary education,Married but not living together,Farmer,6th and above,Yes,Home and others,No,33,24-35 months,No
+No,No,Oromia,rural,1,1,No formal education,Married and living together,Farmer,5th,Yes,Health facility,Yes,22,12-23 months,Yes
+Yes,No,Amhara,rural,5,3,No formal education,Married and living together,Housewife,1st,Yes,Health facility,Yes,31,24-35 months,No
+Yes,No,Amhara,rural,5,3,Attended Secondary education,Married and living together,Farmer,2nd,NA,Health facility,Yes,19,12-23 months,No
+No,No,Amhara,rural,4,3,No formal education,Currently not in marital union,Merchant,1st,No,Health facility,Yes,31,24-35 months,Yes
+No,No,SNNP,rural,3,2,Attended primary education,Married and living together,Housewife,2nd,Yes,Home and others,No,29,24-35 months,Yes
+No,No,Amhara,urban,2,1,Attended primary education,Married but not living together,Housewife,1st,Yes,Health facility,No,27,24-35 months,Yes
+Yes,No,Sidama,urban,2,1,No formal education,Married and living together,Farmer,3rd,No,Health facility,No,25,24-35 months,No
+No,No,Oromia,rural,5,3,No formal education,Married and living together,Farmer,1st,Yes,Health facility,No,15,12-23 months,Yes
+Yes,No,SNNP,urban,1,1,No formal education,Married and living together,Farmer,1st,Yes,Home and others,No,34,24-35 months,No
+Yes,No,Oromia,rural,1,1,No formal education,Married and living together,Housewife,2nd,Yes,Home and others,No,34,24-35 months,No
+Yes,No,Somali,urban,2,1,No formal education,Married and living together,Housewife,2nd,Yes,Health facility,Yes,26,24-35 months,No
+No,No,Sidama,rural,1,1,Attended tertiary education,Married and living together,Housewife,3rd,No,Home and others,Yes,15,12-23 months,Yes
+Yes,No,Addis Ababa,rural,2,1,Attended Secondary education,Married and living together,Employed,2nd,Yes,Home and others,No,27,24-35 months,No
+No,No,Somali,rural,1,1,No formal education,Currently not in marital union,Housewife,6th and above,Yes,Health facility,Yes,17,12-23 months,Yes
+Yes,Yes,Oromia,rural,4,3,Attended primary education,Married and living together,Housewife,4th,No,Health facility,Yes,23,12-23 months,No
+Yes,Yes,Somali,urban,3,2,Attended primary education,Married and living together,Housewife,4th,Yes,Health facility,No,24,24-35 months,No
+Yes,Yes,Oromia,rural,3,2,No formal education,Currently not in marital union,Housewife,2nd,Yes,Home and others,No,31,24-35 months,No
+Yes,Yes,Sidama,urban,4,3,Attended Secondary education,Married and living together,Housewife,2nd,No,Health facility,No,12,12-23 months,No
+No,No,Amhara,urban,2,1,No formal education,Married and living together,Farmer,1st,No,Home and others,No,28,24-35 months,Yes
+Yes,Yes,Amhara,rural,5,3,Attended primary education,Married and living together,Housewife,2nd,Yes,Health facility,No,12,12-23 months,No
+No,No,SNNP,rural,2,1,No formal education,Married and living together,Housewife,6th and above,No,Health facility,No,12,12-23 months,Yes
+Yes,No,SNNP,urban,4,3,No formal education,Married and living together,Housewife,5th,Yes,Home and others,Yes,22,12-23 months,No
+No,No,Dire Dawa,rural,2,1,Attended primary education,Married and living together,Daily laborer,6th and above,No,Home and others,No,28,24-35 months,Yes
+99,99,Amhara,urban,3,2,Attended Secondary education,Currently not in marital union,Merchant,5th,Yes,Home and others,No,15,12-23 months,No
+Yes,Yes,Oromia,rural,2,1,Attended Secondary education,Married and living together,Others,2nd,No,Health facility,No,26,24-35 months,No
+Yes,Yes,Dire Dawa,rural,2,1,No formal education,Married and living together,Merchant,1st,Yes,NA,Yes,13,12-23 months,No
+Yes,No,Oromia,rural,1,1,No formal education,Married and living together,Employed,4th,No,Health facility,No,19,12-23 months,No
+99,99,SNNP,rural,3,2,No formal education,Married and living together,Housewife,3rd,No,Health facility,Yes,27,24-35 months,No
+No,No,Somali,rural,3,2,Attended primary education,Married and living together,Farmer,1st,Yes,Health facility,NA,21,12-23 months,Yes
+No,No,SNNP,rural,4,3,No formal education,Married and living together,Housewife,2nd,Yes,Home and others,No,35,24-35 months,Yes
+Yes,No,Amhara,rural,4,3,No formal education,Married and living together,Housewife,1st,Yes,Home and others,No,20,12-23 months,No
+Yes,Yes,Somali,rural,5,3,Attended primary education,Married but not living together,Housewife,2nd,Yes,Health facility,No,12,12-23 months,No
+Yes,Yes,Amhara,rural,4,3,No formal education,Married and living together,Merchant,5th,Yes,Health facility,No,19,12-23 months,No
+99,99,Somali,rural,2,1,Attended primary education,Married and living together,Farmer,6th and above,Yes,Health facility,No,34,24-35 months,No
+Yes,No,Somali,rural,3,2,No formal education,Currently not in marital union,Farmer,2nd,Yes,Health facility,Yes,13,12-23 months,No
+Yes,No,Sidama,rural,1,1,Attended primary education,Married and living together,Housewife,2nd,No,Home and others,Yes,15,12-23 months,No
+No,No,Oromia,rural,5,3,Attended primary education,Married and living together,Housewife,2nd,Yes,Home and others,No,28,24-35 months,Yes
+Yes,No,Sidama,urban,1,1,Attended primary education,Married and living together,Merchant,6th and above,Yes,Home and others,Yes,32,24-35 months,No
+No,No,Oromia,urban,1,1,No formal education,Married and living together,Farmer,3rd,No,Health facility,No,20,12-23 months,Yes
+No,No,Amhara,rural,1,1,Attended Secondary education,Married and living together,Housewife,5th,No,NA,No,30,24-35 months,Yes
+Yes,No,Amhara,urban,2,1,Attended Secondary education,Currently not in marital union,Housewife,5th,Yes,Health facility,NA,31,24-35 months,No
+No,No,SNNP,rural,1,1,Attended primary education,Married and living together,Housewife,1st,Yes,Health facility,No,20,12-23 months,Yes
+No,No,Amhara,urban,4,3,Attended Secondary education,Currently not in marital union,Housewife,1st,No,Home and others,No,16,12-23 months,Yes
+Yes,No,Amhara,rural,2,1,No formal education,Married and living together,Housewife,5th,Yes,Health facility,No,28,24-35 months,No
+No,No,Oromia,rural,2,1,No formal education,Married and living together,Farmer,4th,Yes,Health facility,Yes,23,12-23 months,Yes
+Yes,Yes,Oromia,urban,3,2,Attended primary education,Currently not in marital union,Employed,1st,NA,Health facility,No,25,24-35 months,No
+Yes,No,Sidama,rural,2,1,No formal education,Married and living together,Farmer,1st,NA,Health facility,No,12,12-23 months,No
+Yes,No,Oromia,rural,1,1,Attended primary education,Currently not in marital union,Farmer,5th,No,Home and others,No,29,24-35 months,No
+Yes,No,Amhara,rural,5,3,Attended tertiary education,Currently not in marital union,Employed,2nd,Yes,Home and others,Yes,16,12-23 months,No
+Yes,No,Amhara,rural,2,1,Attended tertiary education,Married and living together,Farmer,4th,Yes,Home and others,No,29,24-35 months,No
+Yes,No,Amhara,rural,3,2,No formal education,Married and living together,Employed,5th,Yes,Home and others,Yes,24,24-35 months,No
+No,No,Oromia,rural,1,1,No formal education,Married and living together,Housewife,3rd,Yes,Home and others,No,15,12-23 months,Yes
+No,No,SNNP,urban,3,2,Attended primary education,Married and living together,Housewife,4th,Yes,Home and others,No,27,24-35 months,Yes
+No,No,Gambela,rural,1,1,Attended primary education,Married and living together,Farmer,6th and above,Yes,Home and others,No,20,12-23 months,Yes
+Yes,No,Oromia,rural,3,2,Attended Secondary education,Married and living together,Housewife,1st,No,Health facility,No,20,12-23 months,No
+No,No,Oromia,rural,2,1,No formal education,Married and living together,Housewife,3rd,NA,Home and others,Yes,33,24-35 months,Yes
+Yes,No,SNNP,rural,1,1,Attended primary education,Married and living together,Farmer,3rd,Yes,Health facility,Yes,35,24-35 months,No
+No,No,Addis Ababa,urban,1,1,No formal education,Married but not living together,Others,3rd,Yes,NA,Yes,21,12-23 months,Yes
+No,No,Dire Dawa,rural,4,3,Attended primary education,Married and living together,Housewife,6th and above,Yes,Home and others,Yes,17,12-23 months,Yes
+No,No,Oromia,rural,1,1,Attended primary education,Married and living together,Farmer,3rd,No,Health facility,No,27,24-35 months,Yes
+Yes,No,Amhara,rural,4,3,Attended primary education,Married but not living together,Farmer,2nd,No,Health facility,No,19,12-23 months,No
+Yes,Yes,Somali,rural,5,3,Attended primary education,Married and living together,Housewife,1st,No,Health facility,Yes,34,24-35 months,No
+Yes,No,Oromia,urban,1,1,Attended primary education,Married and living together,Housewife,5th,No,Health facility,No,27,24-35 months,No
+No,No,Oromia,rural,3,2,Attended primary education,Married and living together,Housewife,5th,Yes,Home and others,No,30,24-35 months,Yes
+No,No,Addis Ababa,rural,1,1,Attended primary education,Married and living together,Housewife,1st,Yes,Home and others,Yes,12,12-23 months,Yes
+Yes,No,Oromia,rural,2,1,Attended primary education,Married and living together,Farmer,2nd,No,Home and others,Yes,32,24-35 months,No
+Yes,No,SNNP,urban,2,1,Attended primary education,Married and living together,Housewife,4th,NA,Health facility,Yes,18,12-23 months,No
+Yes,Yes,Oromia,rural,3,2,Attended primary education,Married and living together,Farmer,4th,NA,Home and others,No,26,24-35 months,No
+99,99,Sidama,rural,2,1,Attended primary education,Currently not in marital union,Housewife,3rd,Yes,Home and others,No,14,12-23 months,No
+Yes,No,Dire Dawa,urban,4,3,Attended primary education,Currently not in marital union,Farmer,5th,No,Health facility,Yes,14,12-23 months,No
+Yes,Yes,SNNP,rural,4,3,Attended primary education,Married and living together,Housewife,3rd,No,Health facility,NA,12,12-23 months,No
+No,No,Addis Ababa,rural,3,2,Attended primary education,Married and living together,Farmer,2nd,NA,Home and others,No,18,12-23 months,Yes
+99,99,Somali,rural,2,1,Attended primary education,Currently not in marital union,Daily laborer,1st,No,Home and others,No,22,12-23 months,No
+Yes,No,SNNP,rural,2,1,No formal education,Married and living together,Housewife,2nd,Yes,Home and others,Yes,19,12-23 months,No
+No,No,Dire Dawa,rural,4,3,Attended primary education,Married and living together,Employed,2nd,NA,Home and others,No,28,24-35 months,Yes
+No,No,Amhara,rural,1,1,Attended primary education,Married and living together,Farmer,2nd,Yes,Health facility,No,22,12-23 months,Yes
+Yes,Yes,Somali,rural,4,3,Attended primary education,Married and living together,Housewife,1st,No,Health facility,Yes,16,12-23 months,No
+99,99,Oromia,rural,2,1,Attended Secondary education,Married and living together,Farmer,3rd,Yes,Health facility,No,31,24-35 months,No
+Yes,Yes,SNNP,rural,1,1,Attended primary education,Married and living together,Housewife,5th,Yes,Health facility,NA,32,24-35 months,No
+Yes,Yes,Oromia,rural,5,3,Attended primary education,Married and living together,Housewife,1st,No,Health facility,Yes,26,24-35 months,No
+Yes,Yes,Oromia,rural,1,1,Attended primary education,Married and living together,Housewife,4th,Yes,Health facility,No,30,24-35 months,No
+No,No,Oromia,rural,3,2,Attended primary education,Married and living together,Housewife,4th,Yes,Home and others,Yes,24,24-35 months,Yes
+Yes,Yes,Somali,urban,4,3,Attended primary education,Married and living together,Housewife,1st,Yes,Health facility,NA,15,12-23 months,No
+No,No,Addis Ababa,rural,3,2,No formal education,Married and living together,Farmer,4th,No,Health facility,No,18,12-23 months,Yes
+Yes,No,Amhara,rural,4,3,Attended primary education,Married and living together,Merchant,3rd,Yes,Health facility,Yes,21,12-23 months,No
+Yes,Yes,Amhara,rural,3,2,No formal education,Married but not living together,Housewife,5th,Yes,Health facility,Yes,15,12-23 months,No
+Yes,No,Gambela,rural,3,2,Attended primary education,Married and living together,Housewife,4th,Yes,Health facility,No,35,24-35 months,No
+Yes,Yes,SNNP,rural,4,3,Attended primary education,Married and living together,Housewife,1st,Yes,Health facility,Yes,18,12-23 months,No
+No,No,SNNP,rural,3,2,Attended primary education,Married and living together,Farmer,3rd,No,Health facility,No,22,12-23 months,Yes
+No,No,Oromia,rural,5,3,Attended Secondary education,Married and living together,Merchant,3rd,No,Home and others,No,23,12-23 months,Yes
+No,No,Oromia,rural,2,1,Attended primary education,Currently not in marital union,Housewife,4th,Yes,Health facility,Yes,19,12-23 months,Yes
+Yes,No,Amhara,urban,4,3,No formal education,Married and living together,Farmer,3rd,No,Health facility,No,34,24-35 months,No
+No,No,Dire Dawa,rural,1,1,No formal education,Married but not living together,Employed,6th and above,No,Health facility,Yes,14,12-23 months,Yes
+Yes,No,Somali,rural,1,1,Attended Secondary education,Married and living together,Farmer,2nd,Yes,Health facility,Yes,15,12-23 months,No
+Yes,Yes,Amhara,urban,4,3,Attended primary education,Married and living together,Farmer,4th,Yes,Health facility,No,30,24-35 months,No
+Yes,No,Oromia,urban,3,2,No formal education,Married and living together,Farmer,2nd,Yes,Home and others,No,18,12-23 months,No
+Yes,No,Oromia,rural,1,1,No formal education,Married and living together,Daily laborer,1st,No,Home and others,Yes,29,24-35 months,No
+No,No,SNNP,rural,2,1,Attended Secondary education,Married and living together,Employed,2nd,Yes,Home and others,No,19,12-23 months,Yes
+No,No,Oromia,rural,3,2,No formal education,Married and living together,Employed,6th and above,Yes,Home and others,No,29,24-35 months,Yes
+Yes,No,Somali,rural,3,2,Attended primary education,Married and living together,Merchant,3rd,No,Health facility,No,35,24-35 months,No
+Yes,No,Amhara,rural,1,1,Attended Secondary education,Married and living together,Farmer,2nd,No,Health facility,Yes,21,12-23 months,No
+Yes,No,Oromia,rural,2,1,Attended primary education,Married and living together,Housewife,1st,Yes,Health facility,No,16,12-23 months,No
+Yes,No,Amhara,rural,2,1,Attended tertiary education,Married and living together,Daily laborer,4th,Yes,Health facility,No,15,12-23 months,No
+Yes,No,Amhara,urban,5,3,Attended primary education,Married and living together,Housewife,3rd,NA,NA,Yes,33,24-35 months,No
+99,99,SNNP,urban,3,2,Attended primary education,Married and living together,Housewife,1st,Yes,Home and others,Yes,30,24-35 months,No
+Yes,Yes,Oromia,rural,3,2,Attended primary education,Married and living together,Housewife,1st,NA,Health facility,No,15,12-23 months,No
+Yes,No,Amhara,rural,5,3,Attended Secondary education,Married and living together,Employed,2nd,Yes,Home and others,No,33,24-35 months,No
+Yes,Yes,Oromia,urban,4,3,No formal education,Married and living together,Merchant,2nd,Yes,Home and others,Yes,29,24-35 months,No
+Yes,No,Oromia,urban,2,1,No formal education,Married and living together,Housewife,3rd,Yes,Home and others,No,34,24-35 months,No
+Yes,No,Amhara,rural,2,1,No formal education,Married and living together,Farmer,2nd,Yes,Health facility,No,25,24-35 months,No
+No,No,Amhara,urban,1,1,Attended Secondary education,Married and living together,Merchant,4th,No,Home and others,No,23,12-23 months,Yes
+Yes,Yes,Somali,rural,5,3,No formal education,Married and living together,Employed,2nd,Yes,Health facility,Yes,35,24-35 months,No
+Yes,No,Gambela,rural,1,1,Attended Secondary education,Married and living together,Daily laborer,6th and above,No,Health facility,No,13,12-23 months,No
+Yes,No,Amhara,rural,2,1,Attended primary education,Married and living together,Housewife,6th and above,Yes,Health facility,No,24,24-35 months,No
+No,No,Amhara,rural,2,1,No formal education,Married and living together,Housewife,3rd,NA,Health facility,No,29,24-35 months,Yes
+Yes,Yes,SNNP,rural,4,3,Attended primary education,Married and living together,Housewife,2nd,Yes,Home and others,Yes,17,12-23 months,No
+No,No,Oromia,urban,2,1,Attended tertiary education,Married and living together,Farmer,2nd,Yes,Home and others,Yes,13,12-23 months,Yes
+99,99,Oromia,rural,2,1,No formal education,Currently not in marital union,Housewife,6th and above,Yes,Health facility,Yes,17,12-23 months,No
+No,No,Amhara,urban,3,2,Attended Secondary education,Married and living together,Housewife,6th and above,Yes,Home and others,No,35,24-35 months,Yes
+No,No,Oromia,rural,2,1,Attended primary education,Married and living together,Daily laborer,1st,Yes,Health facility,Yes,20,12-23 months,Yes
+No,No,Dire Dawa,rural,3,2,No formal education,Married and living together,Farmer,1st,Yes,Health facility,Yes,27,24-35 months,Yes
+99,99,Amhara,rural,3,2,No formal education,Married and living together,Daily laborer,1st,Yes,Home and others,No,35,24-35 months,No
+Yes,Yes,Oromia,rural,4,3,Attended Secondary education,Married and living together,Farmer,6th and above,Yes,Health facility,NA,35,24-35 months,No
+Yes,No,Oromia,rural,5,3,No formal education,Married and living together,Housewife,6th and above,Yes,Home and others,No,23,12-23 months,No
+Yes,No,Somali,rural,1,1,No formal education,Currently not in marital union,Farmer,1st,Yes,Home and others,Yes,28,24-35 months,No
+No,No,Amhara,rural,5,3,Attended Secondary education,Married and living together,Housewife,1st,Yes,Health facility,No,22,12-23 months,Yes
+Yes,No,Oromia,rural,3,2,Attended tertiary education,Married and living together,Farmer,3rd,No,Home and others,NA,24,24-35 months,No
+No,No,Oromia,urban,2,1,No formal education,Married and living together,Others,6th and above,No,Home and others,No,27,24-35 months,Yes
+Yes,No,Amhara,rural,3,2,Attended Secondary education,Married but not living together,Farmer,3rd,No,Health facility,No,12,12-23 months,No
+Yes,No,Amhara,rural,3,2,Attended primary education,Married and living together,Housewife,5th,No,Home and others,No,21,12-23 months,No
+Yes,No,Amhara,rural,2,1,Attended primary education,Currently not in marital union,Farmer,4th,Yes,Health facility,Yes,19,12-23 months,No
+Yes,Yes,Somali,rural,5,3,No formal education,Married and living together,Housewife,4th,No,Home and others,No,32,24-35 months,No
+99,99,Somali,rural,4,3,Attended primary education,Married and living together,Farmer,2nd,Yes,Health facility,Yes,30,24-35 months,No
+Yes,Yes,Amhara,urban,5,3,Attended primary education,Married and living together,Housewife,2nd,Yes,Home and others,Yes,28,24-35 months,No
+No,No,Somali,urban,2,1,Attended primary education,Married and living together,Employed,2nd,Yes,Health facility,No,31,24-35 months,Yes
+Yes,No,Amhara,rural,2,1,Attended primary education,Married and living together,Housewife,3rd,NA,Health facility,Yes,24,24-35 months,No
+Yes,Yes,Sidama,rural,5,3,No formal education,Currently not in marital union,Housewife,4th,Yes,Health facility,No,30,24-35 months,No
+Yes,No,Amhara,urban,2,1,No formal education,Married and living together,Housewife,3rd,Yes,Health facility,No,35,24-35 months,No
+Yes,No,Sidama,rural,1,1,Attended primary education,Married and living together,Farmer,1st,Yes,Home and others,No,18,12-23 months,No
+No,No,Amhara,rural,5,3,Attended primary education,Married and living together,Daily laborer,2nd,Yes,NA,Yes,13,12-23 months,Yes
+No,No,Gambela,rural,3,2,No formal education,Married and living together,Merchant,2nd,Yes,Home and others,Yes,33,24-35 months,Yes
+Yes,No,Oromia,urban,3,2,Attended primary education,Married and living together,Housewife,1st,Yes,Health facility,Yes,24,24-35 months,No
+Yes,No,Amhara,urban,1,1,Attended primary education,Married and living together,Housewife,1st,Yes,Home and others,Yes,24,24-35 months,No
+No,No,Oromia,urban,1,1,Attended Secondary education,Married and living together,Housewife,4th,Yes,Home and others,No,12,12-23 months,Yes
+No,No,Oromia,rural,2,1,Attended primary education,Married but not living together,Housewife,5th,No,Home and others,Yes,19,12-23 months,Yes
+Yes,No,Oromia,rural,4,3,No formal education,Currently not in marital union,Farmer,4th,Yes,Health facility,Yes,32,24-35 months,No
+No,No,Oromia,rural,1,1,Attended Secondary education,Married and living together,Merchant,3rd,No,Home and others,No,29,24-35 months,Yes
+99,99,SNNP,rural,1,1,Attended Secondary education,Married and living together,Housewife,3rd,No,Home and others,No,35,24-35 months,No
+99,99,Oromia,rural,5,3,Attended tertiary education,Married and living together,Farmer,2nd,No,Home and others,No,31,24-35 months,No
+No,No,SNNP,urban,4,3,Attended tertiary education,Married and living together,Housewife,6th and above,Yes,Home and others,No,17,12-23 months,Yes
+No,No,Amhara,rural,3,2,Attended primary education,Married and living together,Daily laborer,2nd,No,Health facility,Yes,35,24-35 months,Yes
+Yes,Yes,Oromia,urban,4,3,Attended primary education,Currently not in marital union,Employed,1st,No,Health facility,No,18,12-23 months,No
+Yes,No,Addis Ababa,rural,1,1,Attended Secondary education,Married and living together,Farmer,2nd,Yes,Health facility,No,18,12-23 months,No
+Yes,Yes,Amhara,rural,4,3,No formal education,Married and living together,Housewife,6th and above,No,Home and others,No,25,24-35 months,No
+No,No,Oromia,rural,1,1,No formal education,Married and living together,Merchant,2nd,No,Home and others,Yes,13,12-23 months,Yes
+Yes,Yes,Somali,rural,4,3,Attended Secondary education,Married and living together,Housewife,6th and above,NA,Health facility,No,24,24-35 months,No
+Yes,No,Oromia,rural,2,1,Attended primary education,Married and living together,Others,3rd,No,Health facility,Yes,32,24-35 months,No
+Yes,Yes,Amhara,urban,2,1,No formal education,Married and living together,Employed,3rd,No,Health facility,No,15,12-23 months,No
+Yes,Yes,SNNP,urban,3,2,Attended primary education,Married and living together,Merchant,3rd,Yes,Health facility,Yes,28,24-35 months,No
+No,No,Somali,urban,2,1,Attended primary education,Married and living together,Housewife,4th,Yes,Home and others,No,13,12-23 months,Yes
+99,99,Somali,rural,2,1,Attended tertiary education,Married and living together,Merchant,2nd,Yes,Home and others,Yes,22,12-23 months,No
+No,No,Sidama,rural,1,1,No formal education,Married but not living together,Housewife,1st,No,Home and others,No,20,12-23 months,Yes
+No,No,Amhara,urban,3,2,No formal education,Currently not in marital union,Housewife,1st,Yes,Home and others,No,25,24-35 months,Yes
+Yes,No,Sidama,rural,1,1,Attended primary education,Married and living together,Farmer,2nd,No,Health facility,No,32,24-35 months,No
+Yes,No,SNNP,rural,1,1,Attended Secondary education,Married but not living together,Farmer,6th and above,No,Home and others,Yes,27,24-35 months,No
+Yes,No,Oromia,rural,4,3,Attended Secondary education,Married and living together,Housewife,3rd,Yes,Health facility,Yes,30,24-35 months,No
+No,No,SNNP,rural,4,3,Attended Secondary education,Married and living together,Daily laborer,4th,No,Health facility,Yes,31,24-35 months,Yes
+No,No,Amhara,urban,1,1,Attended Secondary education,Married and living together,Housewife,1st,No,Health facility,Yes,28,24-35 months,Yes
+No,No,SNNP,rural,1,1,No formal education,Married and living together,Housewife,6th and above,Yes,Home and others,No,13,12-23 months,Yes
+Yes,Yes,Oromia,rural,5,3,Attended primary education,Married and living together,Housewife,2nd,Yes,Home and others,Yes,20,12-23 months,No
+No,No,Oromia,rural,3,2,No formal education,Married and living together,Farmer,3rd,No,Home and others,No,32,24-35 months,Yes
+Yes,No,Amhara,rural,5,3,Attended Secondary education,Married and living together,Housewife,2nd,Yes,Health facility,No,19,12-23 months,No
+No,No,Somali,rural,1,1,No formal education,Currently not in marital union,Housewife,6th and above,Yes,Health facility,No,32,24-35 months,Yes
+Yes,No,Amhara,rural,2,1,Attended Secondary education,Currently not in marital union,Farmer,3rd,Yes,Health facility,No,17,12-23 months,No
+No,No,Oromia,rural,1,1,No formal education,Married and living together,Merchant,5th,Yes,Home and others,Yes,29,24-35 months,Yes
+Yes,No,Amhara,rural,3,2,Attended primary education,Married and living together,Farmer,5th,No,Home and others,Yes,28,24-35 months,No
+No,No,Somali,rural,3,2,Attended primary education,Married but not living together,Housewife,3rd,Yes,Health facility,No,26,24-35 months,Yes
+Yes,Yes,Addis Ababa,rural,5,3,Attended tertiary education,Married and living together,Housewife,6th and above,No,Health facility,No,31,24-35 months,No
+Yes,No,SNNP,rural,5,3,Attended primary education,Married but not living together,Employed,1st,Yes,Health facility,No,21,12-23 months,No
+Yes,No,Oromia,urban,3,2,Attended primary education,Married and living together,Housewife,6th and above,No,Health facility,Yes,30,24-35 months,No
+Yes,No,Gambela,rural,4,3,No formal education,Married and living together,Merchant,2nd,Yes,Home and others,No,13,12-23 months,No
+No,No,Somali,rural,4,3,Attended Secondary education,Married and living together,Housewife,6th and above,Yes,Health facility,No,25,24-35 months,Yes
+Yes,No,SNNP,urban,1,1,No formal education,Married and living together,Employed,3rd,Yes,Home and others,Yes,15,12-23 months,No
+Yes,No,Amhara,rural,4,3,Attended primary education,Married and living together,Farmer,2nd,Yes,Home and others,Yes,12,12-23 months,No
+No,No,Amhara,urban,2,1,Attended primary education,Married and living together,Farmer,1st,No,Health facility,NA,29,24-35 months,Yes
+Yes,No,Amhara,rural,5,3,No formal education,Married and living together,Daily laborer,2nd,No,Health facility,Yes,22,12-23 months,No
+Yes,No,Addis Ababa,rural,1,1,Attended Secondary education,Married and living together,Farmer,5th,Yes,Health facility,NA,12,12-23 months,No
+No,No,Addis Ababa,rural,2,1,No formal education,Currently not in marital union,Daily laborer,6th and above,Yes,Home and others,No,23,12-23 months,Yes
+Yes,No,Somali,rural,1,1,Attended primary education,Married and living together,Daily laborer,6th and above,No,NA,No,34,24-35 months,No
+No,No,SNNP,rural,3,2,Attended primary education,Married but not living together,Farmer,1st,Yes,Health facility,No,24,24-35 months,Yes
+Yes,Yes,Amhara,urban,3,2,No formal education,Married and living together,Housewife,5th,Yes,Health facility,No,35,24-35 months,No
+No,No,Somali,rural,2,1,No formal education,Married and living together,Housewife,2nd,No,Home and others,No,28,24-35 months,Yes
+No,No,Amhara,rural,2,1,Attended primary education,Married and living together,Employed,5th,No,Home and others,Yes,17,12-23 months,Yes
+No,No,SNNP,rural,1,1,Attended primary education,Currently not in marital union,Merchant,2nd,Yes,Home and others,No,35,24-35 months,Yes
+No,No,SNNP,rural,4,3,Attended primary education,Married and living together,Merchant,5th,No,Home and others,Yes,33,24-35 months,Yes
+Yes,No,Somali,urban,1,1,Attended primary education,Married and living together,Employed,1st,No,Home and others,Yes,26,24-35 months,No
+No,No,Oromia,urban,4,3,No formal education,Married and living together,Merchant,3rd,No,Home and others,No,27,24-35 months,Yes
+No,No,Amhara,urban,1,1,Attended primary education,Married and living together,Housewife,5th,Yes,Health facility,No,25,24-35 months,Yes
+No,No,Addis Ababa,rural,1,1,Attended primary education,Married and living together,Housewife,3rd,Yes,NA,No,14,12-23 months,Yes
+No,No,Addis Ababa,rural,3,2,No formal education,Currently not in marital union,Farmer,2nd,No,Health facility,Yes,19,12-23 months,Yes
+99,99,Oromia,rural,2,1,Attended tertiary education,Married and living together,Daily laborer,4th,No,Home and others,No,28,24-35 months,No
+No,No,Addis Ababa,rural,1,1,No formal education,Married and living together,Housewife,6th and above,No,Home and others,No,25,24-35 months,Yes
+Yes,No,Amhara,rural,1,1,No formal education,Married and living together,Housewife,2nd,No,Home and others,Yes,24,24-35 months,No
+Yes,No,SNNP,rural,3,2,No formal education,Married and living together,Farmer,1st,Yes,Home and others,Yes,31,24-35 months,No
+Yes,Yes,Somali,urban,3,2,Attended primary education,Married and living together,Farmer,5th,No,Home and others,No,18,12-23 months,No
+No,No,Oromia,rural,3,2,No formal education,Married and living together,Farmer,5th,Yes,Home and others,No,32,24-35 months,Yes
+Yes,No,Amhara,rural,1,1,Attended primary education,Married and living together,Housewife,5th,Yes,Home and others,No,31,24-35 months,No
+No,No,Oromia,rural,5,3,Attended primary education,Married and living together,Merchant,2nd,No,Health facility,No,23,12-23 months,Yes
+Yes,No,Amhara,rural,2,1,No formal education,Married and living together,Housewife,4th,No,Home and others,No,26,24-35 months,No
+Yes,Yes,SNNP,urban,1,1,Attended primary education,Married and living together,Farmer,2nd,No,Home and others,No,31,24-35 months,No
+Yes,Yes,Dire Dawa,urban,5,3,No formal education,Married but not living together,Housewife,6th and above,No,Health facility,Yes,33,24-35 months,No
+Yes,No,SNNP,rural,5,3,No formal education,Married and living together,Farmer,1st,Yes,Home and others,Yes,33,24-35 months,No
+Yes,Yes,Oromia,rural,3,2,No formal education,Married but not living together,Farmer,1st,Yes,Health facility,No,27,24-35 months,No
+No,No,Amhara,rural,3,2,No formal education,Married but not living together,Housewife,2nd,Yes,Health facility,No,19,12-23 months,Yes
+No,No,Amhara,urban,3,2,Attended primary education,Married and living together,Housewife,3rd,Yes,Health facility,Yes,19,12-23 months,Yes
+Yes,No,Amhara,urban,4,3,Attended Secondary education,Married and living together,Daily laborer,1st,No,Home and others,Yes,26,24-35 months,No
+No,No,Dire Dawa,rural,1,1,Attended primary education,Married and living together,Housewife,3rd,No,Health facility,No,21,12-23 months,Yes
+Yes,No,Amhara,urban,1,1,Attended Secondary education,Married and living together,Housewife,2nd,Yes,Home and others,NA,21,12-23 months,No
+Yes,Yes,Amhara,rural,2,1,Attended primary education,Married and living together,Merchant,5th,No,Health facility,No,24,24-35 months,No
+Yes,Yes,Somali,rural,5,3,Attended tertiary education,Married and living together,Housewife,1st,Yes,Health facility,Yes,19,12-23 months,No
+Yes,Yes,Oromia,rural,2,1,Attended primary education,Married and living together,Employed,4th,NA,Home and others,No,35,24-35 months,No
+No,No,SNNP,rural,3,2,Attended primary education,Married and living together,Employed,5th,Yes,Health facility,No,26,24-35 months,Yes
+No,No,SNNP,urban,3,2,No formal education,Married and living together,Farmer,3rd,Yes,Home and others,No,31,24-35 months,Yes
+No,No,Gambela,rural,2,1,Attended tertiary education,Married but not living together,Housewife,3rd,No,Health facility,No,27,24-35 months,Yes
+No,No,Somali,rural,1,1,No formal education,Married and living together,Farmer,6th and above,Yes,Health facility,Yes,18,12-23 months,Yes
+No,No,Somali,rural,2,1,No formal education,Married and living together,Housewife,4th,NA,Home and others,No,13,12-23 months,Yes
+Yes,No,Oromia,rural,4,3,No formal education,Married and living together,Farmer,1st,No,Health facility,Yes,16,12-23 months,No
+Yes,No,Somali,urban,2,1,Attended primary education,Married and living together,Others,3rd,No,Home and others,No,14,12-23 months,No
+No,No,Amhara,rural,4,3,No formal education,Married and living together,Housewife,4th,Yes,Health facility,Yes,29,24-35 months,Yes
+99,99,Oromia,rural,1,1,Attended primary education,Married but not living together,Merchant,2nd,No,Home and others,No,16,12-23 months,No
+No,No,Amhara,rural,4,3,Attended primary education,Married and living together,Housewife,1st,No,Health facility,Yes,23,12-23 months,Yes
+Yes,Yes,Amhara,rural,2,1,Attended primary education,Married and living together,Housewife,3rd,No,Home and others,No,20,12-23 months,No
+No,No,Oromia,rural,4,3,Attended primary education,Married and living together,Housewife,2nd,Yes,Health facility,Yes,29,24-35 months,Yes
+99,99,Oromia,urban,1,1,Attended primary education,Married and living together,Housewife,1st,Yes,Health facility,Yes,19,12-23 months,No
+Yes,No,Amhara,urban,3,2,No formal education,Married and living together,Farmer,5th,Yes,Health facility,No,23,12-23 months,No
+No,No,Oromia,urban,2,1,No formal education,Married and living together,Housewife,6th and above,Yes,Health facility,No,34,24-35 months,Yes
+Yes,Yes,Dire Dawa,rural,4,3,Attended tertiary education,Married and living together,Employed,2nd,No,Health facility,No,28,24-35 months,No
+Yes,No,Oromia,rural,1,1,Attended tertiary education,Married and living together,Farmer,2nd,Yes,Home and others,Yes,20,12-23 months,No
+No,No,Sidama,rural,2,1,Attended primary education,Married and living together,Housewife,4th,Yes,Home and others,Yes,18,12-23 months,Yes
+99,99,Amhara,rural,1,1,No formal education,Married and living together,Housewife,6th and above,No,Home and others,Yes,18,12-23 months,No
+No,No,Oromia,urban,4,3,Attended primary education,Married and living together,Housewife,4th,Yes,NA,No,35,24-35 months,Yes
+No,No,Oromia,rural,1,1,Attended primary education,Married but not living together,Housewife,2nd,No,Home and others,NA,17,12-23 months,Yes
+No,No,SNNP,urban,1,1,Attended Secondary education,Married and living together,Farmer,1st,Yes,Health facility,Yes,34,24-35 months,Yes
+Yes,Yes,Somali,rural,4,3,Attended primary education,Married and living together,Daily laborer,6th and above,Yes,Home and others,Yes,31,24-35 months,No
+No,No,Amhara,urban,4,3,Attended primary education,Married and living together,Housewife,4th,No,Home and others,No,34,24-35 months,Yes
+Yes,No,Sidama,urban,2,1,Attended Secondary education,Married and living together,Merchant,1st,Yes,Health facility,Yes,17,12-23 months,No
+No,No,Amhara,urban,1,1,Attended primary education,Married and living together,Housewife,3rd,No,Health facility,No,19,12-23 months,Yes
+No,No,Oromia,rural,5,3,Attended primary education,Married and living together,Farmer,4th,No,Health facility,No,22,12-23 months,Yes
+Yes,No,Sidama,rural,5,3,Attended primary education,Married but not living together,Housewife,5th,NA,Health facility,Yes,18,12-23 months,No
+Yes,No,Oromia,rural,5,3,Attended Secondary education,Married but not living together,Housewife,3rd,Yes,Health facility,NA,32,24-35 months,No
+No,No,Somali,rural,1,1,No formal education,Currently not in marital union,Housewife,6th and above,Yes,Home and others,No,20,12-23 months,Yes
+Yes,No,Oromia,urban,1,1,Attended primary education,Married and living together,Housewife,6th and above,Yes,Health facility,Yes,30,24-35 months,No
+No,No,Sidama,rural,1,1,No formal education,Married and living together,Farmer,6th and above,No,Home and others,Yes,15,12-23 months,Yes
+Yes,Yes,Oromia,rural,2,1,Attended primary education,Married and living together,Farmer,4th,NA,Home and others,No,15,12-23 months,No
+Yes,No,SNNP,urban,1,1,No formal education,Married and living together,Daily laborer,6th and above,Yes,Health facility,No,30,24-35 months,No
+Yes,Yes,Oromia,rural,2,1,Attended primary education,Currently not in marital union,Housewife,6th and above,Yes,Health facility,No,34,24-35 months,No
+No,No,Oromia,rural,3,2,Attended primary education,Married and living together,Housewife,3rd,Yes,Home and others,Yes,18,12-23 months,Yes
+Yes,No,Amhara,rural,1,1,Attended primary education,Married and living together,Housewife,3rd,Yes,Home and others,No,25,24-35 months,No
+Yes,No,Amhara,rural,1,1,Attended primary education,Married and living together,Housewife,6th and above,Yes,Home and others,Yes,12,12-23 months,No
+99,99,Addis Ababa,rural,5,3,Attended Secondary education,Married and living together,Housewife,2nd,Yes,Home and others,Yes,13,12-23 months,No
+Yes,No,Oromia,rural,5,3,Attended primary education,Married and living together,Merchant,2nd,No,Home and others,No,14,12-23 months,No
+Yes,Yes,Amhara,urban,3,2,Attended primary education,Married and living together,Housewife,6th and above,No,Home and others,Yes,13,12-23 months,No
+No,No,Somali,urban,2,1,Attended tertiary education,Married and living together,Housewife,5th,No,Health facility,No,16,12-23 months,Yes
+No,No,Sidama,rural,1,1,No formal education,Married and living together,Merchant,2nd,Yes,Health facility,No,31,24-35 months,Yes
+Yes,No,Addis Ababa,rural,1,1,Attended primary education,Married and living together,Merchant,4th,Yes,Home and others,Yes,23,12-23 months,No
+No,No,Amhara,rural,2,1,Attended primary education,Married and living together,Housewife,4th,Yes,Health facility,No,17,12-23 months,Yes
+99,99,Oromia,rural,3,2,No formal education,Married and living together,Housewife,1st,No,Health facility,No,22,12-23 months,No
+No,No,Amhara,rural,1,1,Attended primary education,Married and living together,Housewife,1st,Yes,Health facility,Yes,18,12-23 months,Yes
+Yes,Yes,Amhara,rural,3,2,Attended tertiary education,Married and living together,Housewife,6th and above,Yes,Health facility,Yes,13,12-23 months,No
+Yes,Yes,SNNP,urban,2,1,No formal education,Married and living together,Farmer,6th and above,Yes,Home and others,Yes,22,12-23 months,No
+Yes,No,SNNP,rural,4,3,No formal education,Married and living together,Housewife,3rd,Yes,Health facility,No,25,24-35 months,No
+Yes,Yes,Oromia,urban,5,3,Attended primary education,Married and living together,Housewife,2nd,No,Home and others,No,30,24-35 months,No
+No,No,Amhara,rural,3,2,No formal education,Currently not in marital union,Farmer,5th,Yes,Health facility,Yes,29,24-35 months,Yes
+99,99,Somali,rural,1,1,No formal education,Married and living together,Daily laborer,3rd,No,Home and others,Yes,31,24-35 months,No
+Yes,No,Oromia,rural,1,1,No formal education,Married and living together,Housewife,2nd,Yes,Health facility,No,25,24-35 months,No
+99,99,Oromia,rural,4,3,Attended primary education,Currently not in marital union,Housewife,3rd,Yes,Home and others,No,32,24-35 months,No
+No,No,Oromia,rural,3,2,Attended primary education,Married and living together,Housewife,6th and above,No,Health facility,No,23,12-23 months,Yes
+Yes,No,Oromia,urban,2,1,No formal education,Married and living together,Merchant,3rd,No,Home and others,Yes,21,12-23 months,No
+Yes,No,Addis Ababa,rural,5,3,Attended Secondary education,Married and living together,Farmer,1st,Yes,Health facility,No,13,12-23 months,No
+No,No,Amhara,rural,1,1,No formal education,Married and living together,Housewife,1st,Yes,Home and others,Yes,14,12-23 months,Yes
+No,No,Amhara,rural,2,1,Attended tertiary education,Married and living together,Employed,1st,Yes,Home and others,Yes,13,12-23 months,Yes
+Yes,Yes,SNNP,rural,1,1,No formal education,Currently not in marital union,Daily laborer,2nd,Yes,Home and others,No,14,12-23 months,No
+Yes,No,Addis Ababa,rural,5,3,Attended Secondary education,Married and living together,Housewife,3rd,Yes,Health facility,Yes,31,24-35 months,No
+Yes,No,SNNP,rural,1,1,Attended Secondary education,Married and living together,Housewife,5th,No,Health facility,No,34,24-35 months,No
+Yes,No,Oromia,rural,4,3,No formal education,Married and living together,Merchant,2nd,Yes,Home and others,No,19,12-23 months,No
+Yes,Yes,Oromia,rural,5,3,Attended Secondary education,Married and living together,Housewife,2nd,No,Home and others,No,21,12-23 months,No
+Yes,No,Addis Ababa,urban,2,1,No formal education,Married and living together,Housewife,5th,Yes,Health facility,No,23,12-23 months,No
+Yes,No,Oromia,rural,3,2,Attended Secondary education,Married and living together,Housewife,6th and above,Yes,Home and others,Yes,30,24-35 months,No
+No,No,Somali,rural,2,1,No formal education,Married and living together,Housewife,5th,No,Health facility,Yes,26,24-35 months,Yes
+Yes,No,Somali,rural,3,2,No formal education,Married and living together,Housewife,2nd,No,Home and others,No,13,12-23 months,No
+Yes,No,Amhara,rural,1,1,Attended primary education,Married and living together,Farmer,6th and above,Yes,Home and others,No,18,12-23 months,No
+99,99,Amhara,rural,3,2,Attended primary education,Married and living together,Daily laborer,2nd,No,Health facility,No,28,24-35 months,No
+No,No,Addis Ababa,urban,5,3,Attended tertiary education,Married and living together,Daily laborer,2nd,No,Home and others,No,25,24-35 months,Yes
+Yes,No,Oromia,rural,3,2,Attended Secondary education,Married and living together,Housewife,5th,Yes,Home and others,No,34,24-35 months,No
+No,No,Amhara,rural,3,2,Attended Secondary education,Married but not living together,Housewife,2nd,No,Home and others,NA,29,24-35 months,Yes
+No,No,Amhara,rural,2,1,Attended tertiary education,Married and living together,Housewife,1st,Yes,Home and others,No,14,12-23 months,Yes
+Yes,No,Amhara,rural,3,2,Attended primary education,Married and living together,Housewife,1st,Yes,Home and others,No,26,24-35 months,No
+No,No,Oromia,rural,2,1,No formal education,Married and living together,Merchant,3rd,Yes,Health facility,No,12,12-23 months,Yes
+Yes,Yes,Amhara,rural,2,1,Attended primary education,Married but not living together,Housewife,6th and above,No,Home and others,Yes,19,12-23 months,No
+No,No,Gambela,urban,1,1,Attended primary education,Married but not living together,Farmer,5th,Yes,NA,No,20,12-23 months,Yes
+No,No,Amhara,rural,2,1,Attended Secondary education,Married and living together,Housewife,3rd,Yes,Health facility,Yes,13,12-23 months,Yes
+Yes,No,Dire Dawa,rural,2,1,No formal education,Married and living together,Housewife,4th,Yes,Health facility,No,28,24-35 months,No
+Yes,Yes,Amhara,rural,5,3,No formal education,Married and living together,Merchant,4th,Yes,Health facility,Yes,25,24-35 months,No
+Yes,No,SNNP,rural,2,1,Attended primary education,Married but not living together,Farmer,6th and above,Yes,Health facility,No,22,12-23 months,No
+No,No,Amhara,rural,1,1,Attended primary education,Married and living together,Others,3rd,Yes,Health facility,No,35,24-35 months,Yes
+No,No,SNNP,rural,1,1,No formal education,Currently not in marital union,Housewife,1st,No,Home and others,No,29,24-35 months,Yes
+Yes,No,Oromia,urban,3,2,No formal education,Married and living together,Farmer,2nd,No,Home and others,No,17,12-23 months,No
+Yes,No,Oromia,urban,3,2,No formal education,Married and living together,Farmer,1st,No,Health facility,Yes,27,24-35 months,No
+Yes,Yes,Sidama,rural,3,2,Attended primary education,Married and living together,Merchant,3rd,Yes,Health facility,No,27,24-35 months,No
+99,99,SNNP,rural,1,1,Attended primary education,Currently not in marital union,Farmer,1st,Yes,Health facility,No,30,24-35 months,No
+No,No,Oromia,rural,1,1,No formal education,Married and living together,Farmer,1st,NA,Health facility,No,25,24-35 months,Yes
+Yes,No,Addis Ababa,rural,3,2,Attended tertiary education,Married and living together,Housewife,1st,Yes,NA,Yes,32,24-35 months,No
+Yes,Yes,Oromia,rural,3,2,No formal education,Married and living together,Housewife,4th,Yes,Health facility,No,24,24-35 months,No
+99,99,Amhara,rural,3,2,No formal education,Married and living together,Housewife,5th,Yes,Home and others,No,24,24-35 months,No
+Yes,No,Oromia,urban,1,1,Attended Secondary education,Married and living together,Housewife,6th and above,NA,Health facility,No,23,12-23 months,No
+Yes,No,SNNP,rural,4,3,No formal education,Currently not in marital union,Housewife,3rd,Yes,Health facility,Yes,35,24-35 months,No
+No,No,Dire Dawa,rural,1,1,Attended tertiary education,Married and living together,Employed,2nd,Yes,Home and others,No,28,24-35 months,Yes
+No,No,SNNP,rural,3,2,Attended primary education,Married but not living together,Farmer,1st,Yes,Health facility,Yes,16,12-23 months,Yes
+Yes,No,Somali,rural,5,3,No formal education,Married and living together,Farmer,6th and above,Yes,Home and others,Yes,13,12-23 months,No
+Yes,No,SNNP,rural,4,3,Attended primary education,Married and living together,Farmer,4th,No,Home and others,Yes,28,24-35 months,No
+No,No,Somali,rural,1,1,No formal education,Married and living together,Housewife,3rd,Yes,Health facility,No,18,12-23 months,Yes
+Yes,No,Oromia,rural,5,3,Attended Secondary education,Married and living together,Housewife,3rd,Yes,Home and others,No,23,12-23 months,No
+No,No,Oromia,urban,3,2,No formal education,Currently not in marital union,Daily laborer,3rd,Yes,Health facility,No,12,12-23 months,Yes
+Yes,No,Amhara,rural,3,2,Attended primary education,Married and living together,Farmer,2nd,Yes,Health facility,NA,15,12-23 months,No
+No,No,Amhara,rural,1,1,Attended Secondary education,Married and living together,Housewife,6th and above,Yes,Health facility,Yes,23,12-23 months,Yes
+Yes,Yes,SNNP,urban,4,3,Attended Secondary education,Married and living together,Housewife,2nd,Yes,Home and others,No,24,24-35 months,No
+No,No,Addis Ababa,rural,1,1,Attended Secondary education,Married and living together,Farmer,2nd,Yes,Health facility,Yes,35,24-35 months,Yes
+Yes,No,Amhara,rural,2,1,Attended primary education,Married but not living together,Merchant,1st,No,Health facility,Yes,20,12-23 months,No
+No,No,Addis Ababa,rural,2,1,Attended Secondary education,Married and living together,Housewife,1st,Yes,Home and others,No,23,12-23 months,Yes
+No,No,Addis Ababa,rural,2,1,No formal education,Currently not in marital union,Housewife,6th and above,No,Health facility,No,18,12-23 months,Yes
+No,No,Oromia,rural,1,1,Attended tertiary education,Married and living together,Farmer,3rd,Yes,Home and others,No,22,12-23 months,Yes
+Yes,No,Dire Dawa,rural,2,1,Attended primary education,Married and living together,Daily laborer,2nd,No,Health facility,NA,13,12-23 months,No
+Yes,No,Oromia,rural,4,3,Attended Secondary education,Married and living together,Housewife,1st,No,NA,No,35,24-35 months,No
+Yes,No,Amhara,urban,1,1,Attended primary education,Married and living together,Housewife,3rd,Yes,Health facility,No,25,24-35 months,No
+Yes,No,Oromia,rural,3,2,Attended primary education,Married and living together,Employed,5th,Yes,Health facility,No,24,24-35 months,No
+Yes,Yes,Addis Ababa,urban,3,2,Attended primary education,Married and living together,Housewife,2nd,Yes,Home and others,Yes,29,24-35 months,No
+Yes,Yes,Oromia,rural,5,3,Attended primary education,Married and living together,Farmer,1st,Yes,Health facility,Yes,26,24-35 months,No
+No,No,Somali,rural,3,2,No formal education,Currently not in marital union,Housewife,4th,NA,Home and others,Yes,14,12-23 months,Yes
+No,No,Somali,urban,2,1,Attended primary education,Married and living together,Employed,2nd,No,Health facility,No,20,12-23 months,Yes
+No,No,SNNP,rural,1,1,Attended Secondary education,Currently not in marital union,Housewife,3rd,Yes,Home and others,No,17,12-23 months,Yes
+Yes,No,SNNP,rural,3,2,Attended primary education,Married and living together,Farmer,1st,No,Home and others,No,27,24-35 months,No
+No,No,Amhara,rural,3,2,No formal education,Currently not in marital union,Farmer,3rd,Yes,Home and others,Yes,33,24-35 months,Yes
+Yes,Yes,Gambela,urban,1,1,Attended primary education,Currently not in marital union,Housewife,3rd,Yes,Home and others,No,19,12-23 months,No
+Yes,No,SNNP,urban,3,2,Attended Secondary education,Married but not living together,Housewife,2nd,No,Health facility,Yes,21,12-23 months,No
+Yes,Yes,SNNP,rural,3,2,No formal education,Currently not in marital union,Merchant,1st,Yes,Home and others,No,19,12-23 months,No
+Yes,No,Amhara,rural,2,1,No formal education,Married and living together,Merchant,1st,Yes,Home and others,No,17,12-23 months,No
+Yes,No,Amhara,rural,1,1,Attended primary education,Married and living together,Farmer,1st,No,Health facility,No,17,12-23 months,No
+Yes,Yes,Dire Dawa,rural,1,1,Attended primary education,Married and living together,Housewife,4th,Yes,Home and others,No,31,24-35 months,No
+Yes,Yes,Dire Dawa,rural,4,3,Attended Secondary education,Married and living together,Housewife,3rd,Yes,Health facility,Yes,27,24-35 months,No
+Yes,No,Amhara,rural,3,2,No formal education,Married and living together,Housewife,2nd,No,Home and others,No,15,12-23 months,No
+99,99,Somali,rural,3,2,Attended primary education,Married and living together,Daily laborer,5th,Yes,Home and others,No,34,24-35 months,No
+No,No,Amhara,rural,1,1,Attended primary education,Married and living together,Farmer,1st,No,Health facility,No,16,12-23 months,Yes
+Yes,No,Somali,urban,4,3,Attended primary education,Married and living together,Daily laborer,2nd,No,Home and others,No,17,12-23 months,No
+Yes,Yes,SNNP,rural,5,3,Attended Secondary education,Married but not living together,Housewife,1st,Yes,Health facility,No,18,12-23 months,No
+Yes,No,Sidama,rural,1,1,Attended Secondary education,Married and living together,Housewife,5th,Yes,Home and others,Yes,32,24-35 months,No
+No,No,Oromia,rural,2,1,Attended primary education,Married but not living together,Farmer,2nd,Yes,Health facility,Yes,24,24-35 months,Yes
+Yes,No,Amhara,urban,2,1,Attended primary education,Married and living together,Housewife,3rd,Yes,Health facility,Yes,17,12-23 months,No
+No,No,Oromia,rural,1,1,Attended primary education,Currently not in marital union,Farmer,3rd,Yes,Health facility,Yes,28,24-35 months,Yes
+No,No,SNNP,urban,4,3,Attended primary education,Married and living together,Farmer,5th,Yes,Health facility,No,21,12-23 months,Yes
+No,No,Amhara,rural,2,1,No formal education,Married and living together,Farmer,2nd,No,Health facility,No,30,24-35 months,Yes
+Yes,No,Addis Ababa,rural,1,1,No formal education,Married and living together,Housewife,3rd,Yes,Health facility,No,18,12-23 months,No
+Yes,No,Gambela,rural,4,3,Attended Secondary education,Married but not living together,Daily laborer,5th,Yes,Health facility,Yes,21,12-23 months,No
+Yes,Yes,Oromia,rural,5,3,Attended primary education,Married and living together,Housewife,2nd,Yes,Home and others,No,14,12-23 months,No
+No,No,Amhara,rural,2,1,Attended primary education,Married and living together,Housewife,3rd,Yes,Health facility,No,17,12-23 months,Yes
+No,No,Amhara,rural,4,3,Attended Secondary education,Married and living together,Farmer,2nd,Yes,Health facility,NA,32,24-35 months,Yes
+Yes,No,Oromia,urban,2,1,Attended Secondary education,Married and living together,Housewife,1st,Yes,Health facility,No,31,24-35 months,No
+Yes,No,Oromia,rural,4,3,No formal education,Married and living together,Farmer,4th,NA,Home and others,NA,18,12-23 months,No
+Yes,No,Amhara,rural,4,3,No formal education,Married and living together,Housewife,1st,Yes,Home and others,No,33,24-35 months,No
+Yes,No,Oromia,rural,4,3,Attended primary education,Married and living together,Merchant,6th and above,Yes,Home and others,No,30,24-35 months,No
+No,No,Addis Ababa,rural,4,3,No formal education,Married and living together,Housewife,6th and above,No,Health facility,Yes,21,12-23 months,Yes
+Yes,No,Oromia,urban,2,1,No formal education,Currently not in marital union,Housewife,1st,Yes,Home and others,No,12,12-23 months,No
+No,No,Somali,urban,2,1,Attended primary education,Married and living together,Housewife,3rd,Yes,Home and others,Yes,31,24-35 months,Yes
+Yes,No,SNNP,urban,5,3,No formal education,Married and living together,Merchant,6th and above,NA,Home and others,Yes,29,24-35 months,No
+Yes,No,Sidama,rural,4,3,No formal education,Married and living together,Housewife,3rd,Yes,Health facility,NA,20,12-23 months,No
+Yes,No,Amhara,rural,1,1,Attended tertiary education,Married and living together,Daily laborer,4th,No,Home and others,Yes,18,12-23 months,No
+Yes,Yes,Amhara,urban,3,2,No formal education,Married and living together,Merchant,6th and above,NA,Home and others,Yes,13,12-23 months,No
+No,No,Oromia,rural,5,3,Attended primary education,Married and living together,Housewife,4th,Yes,Home and others,Yes,19,12-23 months,Yes
+No,No,Somali,rural,3,2,Attended Secondary education,Married and living together,Merchant,1st,No,Home and others,Yes,32,24-35 months,Yes
+No,No,Somali,urban,2,1,Attended primary education,Married and living together,Housewife,4th,Yes,NA,No,21,12-23 months,Yes
+Yes,No,Addis Ababa,rural,3,2,No formal education,Married and living together,Farmer,1st,Yes,Health facility,No,14,12-23 months,No
+Yes,No,SNNP,rural,3,2,Attended primary education,Married and living together,Housewife,6th and above,Yes,Home and others,No,23,12-23 months,No
+Yes,Yes,Gambela,urban,4,3,No formal education,Currently not in marital union,Housewife,6th and above,Yes,Home and others,No,14,12-23 months,No
+No,No,SNNP,rural,1,1,No formal education,Married and living together,Daily laborer,1st,Yes,Health facility,Yes,23,12-23 months,Yes
+No,No,Oromia,rural,3,2,Attended Secondary education,Married and living together,Housewife,3rd,Yes,Health facility,Yes,35,24-35 months,Yes
+No,No,SNNP,rural,3,2,Attended primary education,Married and living together,Farmer,5th,No,Home and others,No,29,24-35 months,Yes
+Yes,Yes,Amhara,rural,2,1,No formal education,Married and living together,Farmer,6th and above,No,Health facility,No,13,12-23 months,No
+Yes,No,Addis Ababa,rural,4,3,Attended primary education,Married and living together,Housewife,2nd,Yes,Home and others,Yes,22,12-23 months,No
+99,99,Amhara,urban,3,2,Attended primary education,Married and living together,Housewife,5th,Yes,Home and others,Yes,15,12-23 months,No
+Yes,No,Oromia,rural,3,2,Attended primary education,Married and living together,Farmer,4th,Yes,Health facility,Yes,27,24-35 months,No
+No,No,Amhara,urban,3,2,Attended primary education,Married and living together,Daily laborer,6th and above,Yes,Health facility,No,27,24-35 months,Yes
+Yes,Yes,Oromia,urban,3,2,No formal education,Married but not living together,Housewife,6th and above,Yes,Home and others,Yes,27,24-35 months,No
+Yes,No,Oromia,rural,3,2,Attended primary education,Married and living together,Housewife,2nd,Yes,Health facility,Yes,13,12-23 months,No
+Yes,No,Somali,urban,1,1,No formal education,Married but not living together,Housewife,3rd,Yes,Home and others,Yes,34,24-35 months,No
+Yes,No,Amhara,rural,2,1,Attended primary education,Married and living together,Housewife,5th,Yes,Home and others,Yes,35,24-35 months,No
+Yes,No,Somali,urban,3,2,No formal education,Married and living together,Farmer,2nd,Yes,Home and others,Yes,31,24-35 months,No
+Yes,Yes,Amhara,urban,3,2,Attended primary education,Married and living together,Farmer,2nd,Yes,Home and others,Yes,15,12-23 months,No
+No,No,Addis Ababa,rural,2,1,Attended primary education,Currently not in marital union,Merchant,6th and above,Yes,Health facility,Yes,35,24-35 months,Yes
+Yes,No,Somali,rural,2,1,No formal education,Married but not living together,Farmer,3rd,Yes,Health facility,Yes,19,12-23 months,No
+Yes,No,Amhara,urban,2,1,No formal education,Married and living together,Housewife,5th,No,Health facility,No,24,24-35 months,No
+Yes,Yes,Oromia,rural,3,2,No formal education,Married and living together,Farmer,6th and above,No,Home and others,Yes,15,12-23 months,No
+No,No,Somali,rural,1,1,No formal education,Married and living together,Farmer,1st,No,Home and others,No,18,12-23 months,Yes
+No,No,Amhara,rural,1,1,Attended primary education,Married and living together,Housewife,1st,Yes,Health facility,No,32,24-35 months,Yes
