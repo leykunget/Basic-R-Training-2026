@@ -65,7 +65,7 @@ By the end of the training, participants will be able to:
 
 Please complete both surveys:
 
-* 📌 [Registration & Pre-training Survey]()
+* 📌 [Registration & Pre-training Survey](https://forms.gle/3jWj9RhKP6j6o7ta9)
 
 * ✅  [Post-training Survey]()
 
