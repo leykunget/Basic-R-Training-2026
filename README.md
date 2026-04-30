@@ -55,7 +55,7 @@ By the end of the training, participants will be able to:
 | ------------------------------- | ----------- | --------------- |
 | Introduction to R & Data Import | 🔗 [View](https://leykungetaneh.quarto.pub/intro2r/) | ⬇️ [Download]() |
 | Data Management (dplyr)       | 🔗 [View](https://leykungetaneh.quarto.pub/data-management-with-dplyr/) | ⬇️ [Download]() |
-| Data Visualization (ggplot2)    | 🔗 [View]() | ⬇️ [Download]() |
+| Data Visualization (ggplot2)    | 🔗 [View](https://leykungetaneh.quarto.pub/data-visualization-with-ggplot2/) | ⬇️ [Download]() |
 | Basic Data Analysis             | 🔗 [View]() | ⬇️ [Download]() |
 | Reproducible Reporting (Quarto) | 🔗 [View]() | ⬇️ [Download]() |
 
