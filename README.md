@@ -57,7 +57,7 @@ By the end of the training, participants will be able to:
 | Data Management (dplyr)       | 🔗 [View](https://leykungetaneh.quarto.pub/data-management-with-dplyr/) | ⬇️ [Download]() |
 | Data Visualization (ggplot2)    | 🔗 [View](https://leykungetaneh.quarto.pub/data-visualization-with-ggplot2/) | ⬇️ [Download]() |
 | Basic Data Analysis             | 🔗 [View](https://leykungetaneh.quarto.pub/basic-data-analysis-with-r/) | ⬇️ [Download]() |
-| Reproducible Reporting (Quarto) | 🔗 [View]() | ⬇️ [Download]() |
+| Reproducible Reporting (Quarto) | 🔗 [View](https://leykungetaneh.quarto.pub/introduction-to-quarto/) | ⬇️ [Download]() |
 
 ---
 
