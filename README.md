@@ -67,7 +67,7 @@ Please complete both surveys:
 
 * [Registration & Pre-training Survey](https://forms.gle/3jWj9RhKP6j6o7ta9)
 
-* [Post-training Survey](https://forms.gle/HQjvq4fHs2uyLx4KA)
+* [Post-training Survey](https://forms.gle/afa7pcREdhPM1AgP9)
 
 ---
 
